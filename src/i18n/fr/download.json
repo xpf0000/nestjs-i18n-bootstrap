@@ -1,0 +1,6 @@
+{
+  "text1": "Télécharger PhpWebStudy",
+  "text2": "GitHub Releases",
+  "text3": "百度网盘下载",
+  "tips": "PhpWebStudy fait la distinction entre Apple Silicon et Intel X86, le nom de fichier avec arm64 est la version Apple Silicon, le nom de fichier sans est la version Intel X86, veuillez faire attention à ne pas télécharger la mauvaise version."
+}

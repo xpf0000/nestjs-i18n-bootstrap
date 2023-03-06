@@ -1,0 +1,9 @@
+{
+  "title": "PHP-Erweiterungen-redis",
+  "text1": "1. redis-Erweiterungen: Redis ist ein quelloffener (BSD-lizenzierter) Server für In-Memory-Speicherdatenstrukturen, der als Datenbank, Cache und Message-Queue-Proxy verwendet werden kann. Er unterstützt Strings, Hash-Tabellen, Listen, Sammlungen, geordnete Sammlungen, Bitmaps, Hyperlogs und andere Datentypen. Eingebaute Replikation, Lua-Scripting, LRU-Abruf, Transaktionen und verschiedene Ebenen der Festplattenpersistenz werden zusammen mit hoher Verfügbarkeit über Redis Sentinel und automatischer Partitionierung über Redis Cluster bereitgestellt.",
+  "text2": "2. Die redis-Erweiterung ist PHP-versionsspezifisch, für PHP-Versionen kleiner als 7.0 verwendet redis die Version 4.3.0, für PHP-Versionen größer oder gleich 7.0 verwendet redis die Version 5.3.7",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die redis-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die redis-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}
+

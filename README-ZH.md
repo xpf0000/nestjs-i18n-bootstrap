@@ -4,15 +4,15 @@
 
 [英文版-en](README.md) | [中文版-zh](README-ZH.md)
 
-Source code for an online multilingual adaptive website https://www.macphpstudy.com, using nestjs, nestjs-i18n, hbs, bootstrap
+已部署上线的多语言自适应网站https://www.macphpstudy.com的源代码，使用nestjs，nestjs-i18n，hbs，bootstrap等技术栈制作
 
-## Installation
+## 安装
 
 ```bash
 $ yarn install
 ```
 
-## Running the app
+## 调试运行
 
 ```bash
 # development
@@ -25,15 +25,15 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
-## Build
+## 构建
 
 ```bash
 $ yarn run build
 ```
 
-## Deploy
+## 部署
 
-Running with PM2
+使用PM2运行
 
 ```bash
 $ cd dist;
@@ -41,7 +41,7 @@ $ pm2 start main.js
 $ pm2 save
 ```
 
-Using nginx as a reverse proxy, nginx url rewrite rule:
+使用nginx作为反向代理, nginx url重定向规则:
 
 ```bash
 location ~* (.*)?$ {
@@ -51,9 +51,9 @@ location ~* (.*)?$ {
 }
 ```
 
-## SiteMap
+## 站点地图sitemap
 
-Edit sitemap.js, replace with your's url and lang set
+编辑sitemap.js, 替换成你的url和lang设置
 
 ```javascript
 const urls = [
@@ -65,18 +65,18 @@ const urls = [
 const langs = ['', 'en/', 'zh/', 'ja/', 'fr/', 'de/', 'ko/'];
 ```
 
-then build sitemap
+构建站点地图
 
 ```bash
 $ yarn run sitemap
 ```
 
-## Stay in touch
+## 项目信息
 
 - Author - [xpf0000](https://github.com/xpf0000)
 - Website - [https://www.macphpstudy.com](https://www.macphpstudy.com)
 - Twitter - [@xpf0000](https://twitter.com/xpf0000)
 
-## License
+## 开源许可证
 
 Nest is [MIT licensed](LICENSE).

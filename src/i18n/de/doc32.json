@@ -1,0 +1,8 @@
+{
+  "title": "Erstellung und Verwendung von SSL-Zertifikaten",
+  "text1": "1. Klicken Sie auf die Funktion SSL Make im Modul Tools, um die Schnittstelle für die Erstellung von SSL-Zertifikaten zu öffnen",
+  "text2": "2. Geben Sie den Domänennamen ein, für den Sie ein Zertifikat erstellen möchten. Sie können einen Platzhalter verwenden, z. B. *.aaa.com, alle nachfolgenden Unterdomänen von aaa.com können dieses Zertifikat verwenden.",
+  "text3": "3. Wählen Sie den Pfad für das Stammzertifikat. Bei der ersten Verwendung ohne Stammzertifikat wird das Stammzertifikat automatisch generiert, für die weitere Verwendung wählen Sie den generierten Pfad für das Stammzertifikat.",
+  "text4": "4. Wählen Sie den Speicherort für die Zertifikatsdatei und klicken Sie auf die Schaltfläche Generieren, um das Zertifikat zu generieren.",
+  "text5": "5. Beim Hinzufügen oder Bearbeiten von Site-Informationen schalten Sie den SSL-Schalter ein, wählen Sie Zertifikat und Zertifikatsschlüssel, die Zertifikatsendung ist .crt, die Zertifikatsschlüsselsendung ist .key, das Zertifikat mit RootCA ist das Root-Zertifikat, wählen Sie es nicht aus, speichern Sie es und starten Sie Nginx/Apache neu, dann können Sie https für den Zugriff auf die Site verwenden"
+}

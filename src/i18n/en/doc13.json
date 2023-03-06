@@ -1,0 +1,7 @@
+{
+  "title": "Uninstall PhpWebStudy",
+  "text1": "1. From the application, drag PhpWebStudy to the wastepaper basket to uninstall the application",
+  "text2": "2. If the application was installed using brew, you can uninstall it using the brew uninstall command: brew uninstall phpwebstudy",
+  "text3": "3. After the application is uninstalled, the original created site, database and other data will not be lost and will be loaded automatically after the next installation.",
+  "text4": "4. If you want to delete the data completely, just delete the ~/Library/PhpWebStudy folder, Note: After deleting, the host configuration and the configuration of each software will be lost, please be careful."
+}

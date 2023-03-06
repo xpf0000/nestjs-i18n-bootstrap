@@ -1,0 +1,7 @@
+{
+  "title": "Solve the problem of slow Brew installation and update",
+  "text1": "1. For Chinese users, brew installation and update may be slow or unsuccessful, you can try to switch brew source to Chinese source to solve the problem.",
+  "text2": "2. The program has added the function of switching brew source with one click, click the Setup menu in the lower left corner of the main interface, and enter the setup page.",
+  "text3": "3. Select the brew source, click switch, and you can switch to the corresponding brew source",
+  "text4": "4. currently support: Tsinghua University, Beijing Foreign Studies University, Tencent, University of Science and Technology of China download sources. You can switch to choose the fastest source"
+}

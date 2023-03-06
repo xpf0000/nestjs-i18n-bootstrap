@@ -1,0 +1,7 @@
+{
+  "title": "PhpWebStudy aktualisieren",
+  "text1": "1. Jedes Mal, wenn PhpWebStudy gestartet wird, prüft es automatisch, ob eine neue Version verfügbar ist. Ist dies der Fall, wird ein Pop-up-Fenster angezeigt, das darauf hinweist, dass eine neue Version zur Installation verfügbar ist.",
+  "text2": "2. Sobald die App geöffnet ist, können Sie nach neuen Versionen suchen, indem Sie auf das Menü Nach Updates suchen in der oberen linken Ecke des Bildschirms klicken. Wenn eine neue Version verfügbar ist, können Sie auf die Schaltfläche Bestätigen klicken, um das Update automatisch zu installieren.",
+  "text3_1": "3. Benutzer können auch von der Download-Seite herunterladen",
+  "text3_2": "Laden Sie die neueste Version von phpwebstudy herunter, um das Update zu installieren"
+}

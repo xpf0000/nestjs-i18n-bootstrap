@@ -1,0 +1,8 @@
+{
+  "title": "PhpWebStudy-Protokollinformationen nach Software",
+  "text1": "1. Beispiel PHP: Klicken Sie auf die Schaltfläche \"Log\" im PHP-Modul, um die Seite \"Log View\" aufzurufen.",
+  "text2": "2. Auf der Seite wird ein Textfeld mit Informationen über das aktuelle Protokoll angezeigt, das Sie einsehen können",
+  "text3": "3. Klicken Sie auf die Schaltfläche Aktualisieren, um die neuesten Protokollinformationen anzuzeigen.",
+  "text4": "4. Klicken Sie auf die Schaltfläche Löschen, um die Protokolldatei zu löschen, die anschließend nicht wiederhergestellt werden kann.",
+  "text5": "5. Wenn Sie das Textfeld auf der Seite unpraktisch finden, klicken Sie auf die Schaltfläche Öffnen, um den Ordner zu öffnen, in dem sich die Datei befindet, und wählen Sie die Datei standardmäßig aus."
+}

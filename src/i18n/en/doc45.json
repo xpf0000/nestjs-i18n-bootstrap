@@ -1,0 +1,7 @@
+{
+  "title": "Nginx 403 error",
+  "text1": "1. nginx on mac is prone to reporting 403 errors due to folder permissions",
+  "text2": "2. first check the nginx configuration file user and change it to user root owner; save it, restart the nginx service, and try again",
+  "text3": "3. If it does not work, generally are folder permission problems, the program will automatically give the entire folder link 755 permissions when adding edit site, you can try to edit and save the site and try again",
+  "text4": "4. you can also use the command line command \"sudo chmod 755 folder path\" The entire folder link needs to be executed Site folder use \"sudo chmod -R 755 folder path\""
+}

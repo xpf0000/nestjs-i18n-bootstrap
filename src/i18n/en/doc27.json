@@ -1,0 +1,15 @@
+{
+  "title": "Managing Mysql with phpMyAdmin",
+  "text1": "1. After mysql installation, the initial user is root and there is no initial password, here is how to reset the password using phpMyAdmin",
+  "text2_1": "Download phpMyAdmin source code from phpMyAdmin official website",
+  "text2_2": " ",
+  "text3_1": "3. Follow the steps in the documentation",
+  "text3_2": "Create Site",
+  "text3_3": "to create the site and copy the phpMyAdmin source code to the site root directory",
+  "text4": "4. Turn on Nginx/Apache, PHP, Mysql services",
+  "text5": "5. Access the site using the domain name/IP + port number and login with root + empty password",
+  "text6": "6. If prompted to disable empty password login, change $cfg['Servers'][$i]['AllowNoPassword'] = false to $cfg['Servers'][$i]['AllowNoPassword'] = true in libraries/config.default.php, copy config.sample.inc.php to config.inc.php, change $cfg['Servers'][$i]['AllowNoPassword'] = false to $cfg['Servers'][$i]['AllowNoPassword '] = true",
+  "text7": "7. Login again with root + empty password",
+  "text8": "8. After logging in, click Change Password on the home page to set the root password",
+  "text9": "9. After the modification is complete, you can subsequently use the account password to log in"
+}

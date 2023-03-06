@@ -1,0 +1,7 @@
+{
+  "title": "PhpWebStudy deinstallieren",
+  "text1": "1. Ziehen Sie PhpWebStudy aus der Anwendung in den Papierkorb, um die Anwendung zu deinstallieren",
+  "text2": "2. Wenn die Anwendung mit brew installiert wurde, kann sie mit dem Befehl brew deinstalliert werden: brew uninstall phpwebstudy",
+  "text3": "3. Wenn die Anwendung deinstalliert wird, gehen die ursprüngliche Website, die Datenbank und andere erstellte Daten nicht verloren und werden bei der nächsten Installation automatisch geladen.",
+  "text4": "4. Wenn Sie die Daten vollständig löschen möchten, löschen Sie einfach den Ordner ~/Library/PhpWebStudy. Bitte beachten Sie, dass nach dem Löschen die ursprüngliche Host-Konfiguration und die Konfiguration der einzelnen Programme verloren gehen, seien Sie vorsichtig."
+}

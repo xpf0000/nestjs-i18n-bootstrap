@@ -1,0 +1,8 @@
+{
+  "title": "PHP 拡張機能-mongodb",
+  "text1": "1. mongodb extensions: php mongodb extensions, phpアプリケーションがMongoDBデータベースに接続し、データの読み取りと書き込みができるようにする。",
+  "text2": "2. php のバージョンが 7.0 未満の場合はバージョン 1.7.5 を使用し、 7.0 以上の場合はバージョン 1.14.1 を使用します。",
+  "text3": "3.インストールされていない場合は、Actions->Installをクリックしてmongodbエクステンションをインストールしてください。",
+  "text4": "4.インストール後、Actions->Copy Linkで拡張機能のリンクコードをコピーし、PHP設定ファイルに貼り付けると、mongodb拡張機能が利用できるようになります。",
+  "text5": "5.PHPの設定ファイルを変更したら、設定を有効にするために、サービスセクションのRestartまたはReload Configurationを忘れずにクリックしてください。"
+}

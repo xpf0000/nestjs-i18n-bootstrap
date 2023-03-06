@@ -1,0 +1,6 @@
+{
+  "text1": "下载PhpWebStudy",
+  "text2": "GitHub下载",
+  "text3": "百度网盘下载",
+  "tips": "PhpWebStudy区分Apple Silicon和Intel X86, 带arm64的是Apple Silicon版, 不带的是Intel X86版, 请注意不要下载错了"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Brew의 MacOS 설치",
+  "text1": "1. 이 애플리케이션은 php, nginx 및 기타 소프트웨어의 설치 및 제거를 위해 brew를 사용합니다. 애플리케이션이 실행되면 brew가 설치되어 있는지 자동으로 확인하고 설치되어 있지 않은 경우 자동으로 설치를 시도합니다.",
+  "text2": "2. 여러 가지 이유로이 응용 프로그램은 국내 미러 스크립트를 사용하여 brew를 설치하는 데 다양한 입력 정보가 필요하지만 프로그램이 자동으로 정보를 입력했지만 설치가 여전히 실패 할 수 있으므로이 자습서에서는 brew를 수동으로 설치하는 방법을 알려줍니다.",
+  "text3": "3. Github를 열 수 있는 경우, Brew의 공식 설치 링크를 사용하여 터미널을 열고 \"/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\" 명령을 복사하는 것을 권장합니다. 를 터미널에 복사하여 설치합니다.",
+  "text4": "4. 중국 사용자의 경우, Github을 열 수 없는 경우 Gitee에서 국내 brew 설치 스크립트를 사용하여 터미널을 열고 \"/bin/zsh -c \"$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh )\"\"를 터미널에 복사하여 설치하면 CUSTOM, 칭화대, 알리 등과 같은 브루 이미지 소스를 선택할 수 있습니다.",
+  "text5": "5. 설치에 실패한 경우 페이지 하단에 있는 QQ 그룹 QR 코드를 스캔하여 그룹에 들어가 조언을 받을 수 있습니다.",
+  "text6": "6. Brew 깃허브 링크: ",
+  "text7": "7. Brew China 설치 스크립트 링크: ",
+  "text8": "8. Brew 공식 문서를 작성하세요: "
+}

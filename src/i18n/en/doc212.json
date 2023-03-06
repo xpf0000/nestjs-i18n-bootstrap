@@ -1,0 +1,8 @@
+{
+  "title": "PHP Extensions-xdebug",
+  "text1": "1. xdebug extension: Xdebug is an open source PHP program debugger (i.e. a Debug tool) that can be used to track, debug and analyze the running status of PHP programs.",
+  "text2": "2. The xdebug extension is PHP version specific, for php versions less than 7.2, xdebug uses version 2.5.5, for php versions greater than or equal to 7.2, xdebug uses version 3.1.5.",
+  "text3": "3. If not installed, click Operation->Install to install the xdebug extension",
+  "text4": "4. After installation, you can click Operation->Copy Link, copy the extension link code and paste it into the PHP configuration file to use the xdebug extension",
+  "text5": "5. After changing the PHP configuration file, remember to click Restart or Reload Configuration in the Services section to make the configuration take effect"
+}

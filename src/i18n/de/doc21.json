@@ -1,0 +1,15 @@
+{
+  "title": "PhpWebStudy-Funktionen im Überblick",
+  "text1": "1. Wenn Sie die App zum ersten Mal öffnen, werden Sie aufgefordert, Ihr Computer-Passwort einzugeben, da die eingebauten Dienste nginx, php und andere ein Root-Passwort benötigen, um sie ein- und auszuschalten; geben Sie daher hier das korrekte Computer-Passwort ein, sonst funktioniert die App nicht richtig.",
+  "text2": "2. Nach dem Start der Anwendung wird der Hauptbildschirm wie folgt angezeigt",
+  "text3": "3. Hosts, Website-Verwaltung, Hinzufügen, Löschen und Auflisten von Websites",
+  "text4": "4. Nginx, Nginx-Modul-Verwaltung, Versionswechsel, Dienst ein/aus, Konfigurationsänderungen, Protokollanzeige",
+  "text5": "5. Apache, Apache-Modul-Verwaltung, Versionswechsel, Dienst ein/aus, Konfigurationsänderungen, Protokollanzeige",
+  "text6": "6. Mysql, Mysql-Modulverwaltung, Versionsumschaltung, Dienst ein/aus, Konfigurationsänderung, Log-Ansicht",
+  "text7": "7. PHP, PHP-Modulverwaltung, Versionsumschaltung, Dienst ein/aus, Konfigurationsänderungen, Protokollanzeige, Erweiterungsverwaltung",
+  "text8": "8. Memcached, Verwaltung von Memcached-Modulen, Versionswechsel, Dienst ein/aus, Protokollanzeige",
+  "text9": "9. Redis, Redis-Modulverwaltung, Versionswechsel, Dienst ein/aus, Konfigurationsänderungen, Protokollanzeige",
+  "text10": "10. NodeJS, NodeJS-Modulverwaltung, Versionswechsel, Installation einer bestimmten Version",
+  "text11": "11. Tools, Verwaltung der gemeinsamen Tools-Module, Erstellung von selbstsignierten SSL-Zertifikaten, Anzeige von Dateiinformationen, Zeitstempel, Textkodierung und -dekodierung",
+  "text12": "12. Setup, Setup-Verwaltung, Linke Modulauswahlanzeige, Benutzerdefinierte Pfade für jede Software"
+}

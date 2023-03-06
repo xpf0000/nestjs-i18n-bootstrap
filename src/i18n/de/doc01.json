@@ -1,0 +1,17 @@
+{
+  "title": "Einführung",
+  "text1": "1. Es wird dringend empfohlen, vor der Verwendung dieser Anwendung die brew-Umgebung zu installieren, da die Anwendung die auf dem System verfügbare Software erkennt, dem brew-Installationsverzeichnis Priorität einräumt und die verfügbare Softwareversion sowie die verfügbare brew-Version überprüft.",
+  "text2_1": "2. Die Installationsmethode für das Gebräu kann unter folgender Adresse eingesehen werden",
+  "text2_2": "MacOS-Installation von Brew",
+  "text2_3": "Durchführen der Installation",
+  "text3": "3. Für chinesische Benutzer ist die Standard-Brühquelle eine ausländische Quelle, die langsam sein kann. Wir empfehlen, die Funktion zum Wechseln der Brühquelle in der App zu verwenden, um auf die inländische Quelle umzuschalten, da dies viel schneller ist.",
+  "text4_1": "4. shivammathur/php-Bibliothek für php, keine inländischen Quellen, wird langsam sein, Web-Proxy verfügbar, kann sein",
+  "text4_2": "Einrichten eines Web-Proxys",
+  "text4_3": "Durchführen der Installation",
+  "text5": "5. Vor der Installation der Software kann die Installation fehlschlagen, wenn die Brauerei lange nicht aktualisiert wurde oder die Brauereiversion zu alt ist, oder Sie können die verfügbare Version nicht auswählen. Es wird empfohlen, brew update && brew upgrade auszuführen, um die Brauerei zu aktualisieren.",
+  "text6": "6. Wenn jede Software startet, gibt sie den Startbefehl aus, und wenn sie nicht startet, gibt sie die Fehlerursache aus. Sie können zuerst den Startbefehl kopieren, ihn im Terminal ausführen und sich dann mit der Fehlerursache befassen.",
+  "text7": "7. Site-Zugangsprobleme, zunächst festzustellen, ob die Zugangsadresse falsch ist, nicht 80 und 443 Ports, müssen Port-Nummer hinzuzufügen, dann Blick auf die Website-Logs, Website-Ordner Berechtigungen für Probleme, den Rest nach den Protokollen zu behandeln",
+  "text8": "8. Die Protokolle für jede Software und jeden Standort innerhalb der Anwendung sind vollständig, und es wird empfohlen, den Tipps in den Protokolldateien mehr Aufmerksamkeit zu schenken",
+  "text9": "9. Wenn Sie Probleme haben, können Sie den QR-Code der QQ-Gruppe scannen, um Fragen zu stellen, Gruppennummer: 540738893, können Sie auch die Github Issues erwähnen",
+  "text10": "10. Abschließend wünsche ich Ihnen viel Spaß mit dieser Anwendung und hoffe, dass sie Ihnen bei Ihrer Entwicklungsarbeit eine echte Hilfe sein wird."
+}

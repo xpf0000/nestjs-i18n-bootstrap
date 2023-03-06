@@ -1,0 +1,6 @@
+{
+  "title": "PhpWebStudy software version switch",
+  "text1": "1. Take PHP as an example, click the version management button, it will show all available versions, select the version you want to install/uninstall to install/uninstall",
+  "text2": "2. Click the switch version button, select the current version you want to use to switch",
+  "text3": "3. Click the Service button, the currently selected version and the path to the executable file will be displayed, click the Start/Shutdown button to start/shutdown the service"
+}

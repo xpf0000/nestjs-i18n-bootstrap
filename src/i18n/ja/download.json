@@ -1,0 +1,6 @@
+{
+  "text1": "PhpWebStudyのダウンロード",
+  "text2": "GitHubからダウンロード",
+  "text3": "百度网盘下载",
+  "tips": "PhpWebStudyでは、Apple SiliconとIntel X86を区別しており、arm64があるものがApple Silicon、ないものがIntel X86となりますので、間違ってダウンロードしないように注意してください。"
+}

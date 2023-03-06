@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-yaf",
+  "text1": "1. yaf-Erweiterung: Yaf, voller Name Yet Another Framework, ist eine C-Sprache in PHP-Framework geschrieben ist eine PHP-Erweiterungen Form von PHP-Entwicklung Rahmen, im Vergleich zu den allgemeinen PHP-Framework, ist es schneller und leichter. Es bietet Bootstrap, Routing, Distribution, Views, Plug-ins, ist ein vollwertiges PHP-Framework.",
+  "text2": "2. Die yaf-Erweiterung ist PHP-versionsspezifisch, für PHP-Versionen unter 7.0 verwendet die yaf-Erweiterung Version 2.3.5, für PHP-Versionen über 7.0 verwendet die yaf-Erweiterung Version 3.3.5",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die yaf-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die yaf-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

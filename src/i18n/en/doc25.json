@@ -1,0 +1,8 @@
+{
+  "title": "software log information view",
+  "text1": "1. Take PHP as an example, click the log button in the PHP module to enter the log view page",
+  "text2": "2. There will be a editor on the page to display the current log information, you can browse to view",
+  "text3": "3. Click the Refresh button to display the latest log information",
+  "text4": "4. Click the Clear button to clear the log file, which cannot be restored after emptying.",
+  "text5": "5. If you find it inconvenient to view the log info in the editor on the page, you can click the Open button, which will open the folder where the file is located and select the file by default, you can use other ways to open and view the log info"
+}

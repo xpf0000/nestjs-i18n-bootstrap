@@ -1,0 +1,11 @@
+{
+  "title": "MacOS安装Brew",
+  "text1": "1. 本应用的php, nginx等各软件的安装卸载依托于brew, 应用运行时, 会自动检测是否安装brew, 如果没安装, 会尝试自动安装brew",
+  "text2": "2. 因为各种原因, 本应用安装brew使用的是国内的镜像脚本, 中间会需要各种输入信息确认, 虽然程序上已经帮忙自动输入信息, 但是还是会有可能安装失败, 此教程就教大家如何自己手动安装brew",
+  "text3": "3. 如果可以打开Github, 推荐使用Brew的官方安装链接, 打开终端, 复制命令 \"/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\" 到终端中进行安装",
+  "text4": "4. 如果无法打开Github, 使用Gitee上的国内brew安装脚本, 打开终端, 复制命令 \"/bin/zsh -c \"$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)\"\" 到终端中进行安装, 可以选择中科大, 清华大学, 阿里等brew镜像源",
+  "text5": "5. 如果安装不成功, 可以扫码页面底部的QQ群二维码进群咨询",
+  "text6": "6. Brew Github链接: ",
+  "text7": "7. Brew 国内安装脚本链接: ",
+  "text8": "8. Brew 官方文档: "
+}

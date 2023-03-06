@@ -1,0 +1,8 @@
+{
+  "title": "Extensions PHP-redis",
+  "text1": "1. extensions redis : Redis est un serveur de structure de données de stockage en mémoire, open source (licence BSD), qui peut être utilisé comme base de données, cache et proxy de file d'attente de messages. Il prend en charge les chaînes de caractères, les tables de hachage, les listes, les collections, les collections ordonnées, les bitmaps, les hyperlogs et d'autres types de données. La réplication intégrée, les scripts Lua, la récupération LRU, les transactions et différents niveaux de persistance sur disque sont fournis, ainsi que la haute disponibilité grâce à Redis Sentinel et le partitionnement automatique grâce à Redis Cluster.",
+  "text2": "2. L'extension redis est spécifique à la version de PHP, pour les versions de php inférieures à 7.0, redis utilise la version 4.3.0, pour les versions de php supérieures ou égales à 7.0, redis utilise la version 5.3.7.",
+  "text3": "3. Si elle n'est pas installée, cliquez sur Actions->Installer pour installer l'extension redis.",
+  "text4": "4. Après l'installation, vous pouvez cliquer sur Actions->Copier le lien pour copier le code du lien de l'extension et le coller dans le fichier de configuration PHP pour utiliser l'extension redis.",
+  "text5": "5. Après avoir modifié le fichier de configuration PHP, n'oubliez pas de cliquer sur Redémarrer ou Recharger la configuration dans la section Services pour que la configuration prenne effet."
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Désinstaller PhpWebStudy",
+  "text1": "1. Depuis l'application, faites glisser PhpWebStudy vers la corbeille à papier pour désinstaller l'application.",
+  "text2": "2. Si l'application a été installée à l'aide de brew, vous pouvez la désinstaller en utilisant la commande brew uninstall : brew uninstall phpwebstudy",
+  "text3": "3. Après la désinstallation de l'application, le site créé à l'origine, la base de données et les autres données ne seront pas perdus et seront chargés automatiquement après la prochaine installation.",
+  "text4": "4. Si vous voulez supprimer complètement les données, il suffit de supprimer le dossier ~/Bibliothèque/PhpWebStudy, Note : Après la suppression, la configuration de l'hôte et la configuration de chaque logiciel seront perdues, veuillez faire attention."
+}

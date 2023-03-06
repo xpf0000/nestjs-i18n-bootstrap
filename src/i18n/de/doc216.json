@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-mongodb",
+  "text1": "1. mongodb extensions: php mongodb extensions, die es php-Anwendungen ermöglichen, sich mit MongoDB-Datenbanken zu verbinden und Daten zu lesen und zu schreiben",
+  "text2": "2. Die mongodb-Erweiterung ist PHP-versionsspezifisch, für PHP-Versionen unter 7.0 verwendet die mongodb-Erweiterung Version 1.7.5, für PHP-Versionen über 7.0 verwendet die mongodb-Erweiterung Version 1.14.1",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die mongodb-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die mongodb-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Verwendung eines Web-Proxys",
+  "text1": "1. Für chinesische Benutzer kann es sein, dass die Installation von brew oder Software über brew nicht möglich oder sehr langsam ist, weshalb Sie einen Web-Proxy verwenden sollten.",
+  "text2": "2. Allerdings können die Proxy-Einstellungen jeder Person unterschiedlich sein, und es ist möglich, dass der Web-Proxy des Systems nicht mit der phpwebstudy-Software funktioniert.",
+  "text3": "3. In diesem Fall können Sie den Web-Proxy in phpwebstudy einstellen, so dass Sie die Software über phpwebstudy mit Hilfe des Web-Proxys installieren können",
+  "text4": "4. Klicken Sie auf Setup->Allgemein->Proxy-Einstellungen, richten Sie den Proxy ein, Sie können den Proxy einrichten, indem Sie auf Quick Settings klicken, den Link eingeben und ihn schnell einrichten",
+  "text5": "5. Sie können auch den aktuellen Agenten bearbeiten und die Einstellungen anpassen",
+  "text6": "6. Wählen Sie nach der Einrichtung die Option Aktivieren, damit Sie den Webproxy später verwenden können."
+}

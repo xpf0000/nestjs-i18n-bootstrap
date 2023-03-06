@@ -1,0 +1,76 @@
+#container {
+    margin-top: 70px;
+    min-height: calc(100vh - 375px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#container .cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 80px 10vw;
+}
+#container .cell .cell-wapper {
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+}
+#container .cell.title {
+    padding: 80px 10vw 20px 10vw;
+}
+#container .cell.title .cell-wapper {
+    justify-content: center;
+    align-items: center;
+}
+#container .cell.title h1 {
+    font-size: 48px;
+}
+.cell-wapper .git-item {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cell-wapper .git-item:last-of-type {
+    margin-bottom: 40px;
+}
+.cell-wapper .git-item svg {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+}
+.cell-wapper .git-item h3 {
+    margin-left: 15px;
+    font-size: 20px;
+    color: #333;
+    flex: 1;
+    word-break: break-all;
+}
+.cell-wapper >span {
+    padding-left: 55px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.cell-wapper >img {
+    width: 305px;
+    height: 405px;
+    margin-left: 30px;
+    object-fit: contain;
+}
+@media only screen and (max-width: 768px) {
+    #container .cell.title h1 {
+        font-size: calc(3.6vw + 20px);
+    }
+    .cell-wapper >span {
+        padding-left: 0;
+    }
+    .cell-wapper >img {
+        margin-left: 10px;
+    }
+}

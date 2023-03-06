@@ -1,0 +1,15 @@
+{
+  "title": "phpMyAdminでMysqlを管理する",
+  "text1": "1.mysqlのインストール後、初期ユーザーがrootで初期パスワードがないので、phpMyAdminを使用してパスワードをリセットする方法は以下の通りです。",
+  "text2_1": "2. phpMyAdminのウェブサイトから",
+  "text2_2": "phpMyAdminのソースコードをダウンロードする",
+  "text3_1": "3.ドキュメントを参照する",
+  "text3_2": "サイト作成",
+  "text3_3": "の手順でサイトを作成し、phpMyAdminのソースコードをサイトのルートにコピーしてください。",
+  "text4": "4.Nginx/Apache、PHP、Mysqlのサービスをオンにします。",
+  "text5": "5.ドメイン/IP＋ポート番号でアクセスし、root＋空のパスワードでログインする。",
+  "text6": "6.空パスワードログインを無効にするよう求められたら、libraries/config.default.phpの$cfg['Servers'][$i]['AllowNoPassword'] = false を $cfg['Servers'][$i]['AllowNoPassword'] = trueに変更します。真、config.sample.inc.php を config.inc.php にコピーし、$cfg['Servers'][$i]['AllowNoPassword'] = false を $cfg['Servers'][$i]['AllowNoPassword'] に変更します。 '] = true に変更します。",
+  "text7": "7.root＋空のパスワードで再ログイン",
+  "text8": "8.ログイン後、トップページの「パスワードの変更」をクリックして、rootのパスワードを設定します。",
+  "text9": "9.変更が完了したら、アカウントのパスワードでログインします。"
+}

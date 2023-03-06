@@ -1,0 +1,9 @@
+{
+  "title": "Auflösen der Portbelegung auf dem Mac",
+  "text1": "1. Beim Starten von Software wie nginx apache redis kann gelegentlich das Problem auftreten, dass der Port belegt ist und die Software nicht starten kann. Sie müssen dann herausfinden, welcher Prozess den entsprechenden Port belegt und ihn beenden.",
+  "text2": "2. Verwenden Sie die Befehlszeile sudo lsof -nP -i:port number, um alle Prozesse zu ermitteln, die derzeit diesen Port verwenden",
+  "text3": "3. Um die PID eines Prozesses zu erhalten, verwenden Sie die Befehlszeile sudo kill -9 pid1 pid2... Beenden Sie den Prozess",
+  "text4": "4. PhpWebStudy hat eine integrierte Ein-Klick-Portbereinigung. Klicken Sie auf der linken Seite auf Tools, um zur Seite Quick Tools zu gelangen.",
+  "text5": "5. Klicken Sie auf Port Kill, um die Portreinigungsfunktion aufzurufen.",
+  "text6": "6. Geben Sie die Nummer des Ports ein, nach dem Sie suchen möchten, und klicken Sie auf \"Suchen\". Daraufhin werden alle Prozesse angezeigt, die mit diesem Port verbunden sind, und Sie haben die Möglichkeit, einige oder alle Prozesse zu beenden."
+}

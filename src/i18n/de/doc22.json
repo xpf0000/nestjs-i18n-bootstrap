@@ -1,0 +1,6 @@
+{
+  "title": "Wechsel zwischen Softwareversionen von PhpWebStudy",
+  "text1": "1. Klicken Sie zum Beispiel auf die Schaltfläche \"Versionsverwaltung\", dann werden alle derzeit verfügbaren Versionen angezeigt. Wählen Sie die Version aus, die Sie installieren/deinstallieren möchten.",
+  "text2": "2. Klicken Sie auf die Schaltfläche \"Wechseln\" und wählen Sie die Version aus, die Sie verwenden möchten, um zwischen den Versionen zu wechseln.",
+  "text3": "3. Klicken Sie auf die Schaltfläche Dienste, die aktuell ausgewählte Version und der Pfad zur ausführbaren Datei werden angezeigt, klicken Sie auf die Schaltfläche Starten/Herunterfahren, um den Dienst zu starten/herunterzufahren"
+}

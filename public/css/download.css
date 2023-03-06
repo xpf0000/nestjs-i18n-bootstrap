@@ -1,0 +1,81 @@
+#container {
+    margin-top: 70px;
+    min-height: calc(100vh - 375px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#container .cell {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 80px 0;
+}
+#container .cell .cell-title {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+#container .cell .cell-wapper {
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#container .cell.title .cell-wapper {
+    justify-content: center;
+}
+#container .cell.title h1 {
+    font-size: 48px;
+}
+
+.cell-wapper .cell-item {
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cell-wapper .cell-item .x-icon {
+    font-size: 60px;
+}
+.cell-wapper .cell-item a {
+    height: 126px;
+    width: 317px;
+    margin-top: 30px;
+    max-width: 90%;
+    background: rgba(248, 249, 250, 1);
+    color: inherit;
+    display: flex;
+    box-shadow: 0 0 0 rgb(0 0 0 / 10%);
+    padding: 12px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+}
+.cell-wapper .cell-item a h3 {
+    font-size: 32px;
+}
+.cell-wapper .cell-item a span {
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 768px) {
+    #container .cell.title h1 {
+        font-size: calc(3.6vw + 20px);
+    }
+    #container .cell .cell-wapper {
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+    #container .cell .cell-wapper .cell-item {
+        width: 80%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+}

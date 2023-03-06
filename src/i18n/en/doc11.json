@@ -1,0 +1,11 @@
+{
+  "title": "Install PhpWebStudy",
+  "text1": "1. Use brew to install, the application is already on brew cask, you can use brew to install directly, brew install phpwebstudy",
+  "text2_1": "2. You can also download the latest version of PhpWebStudy from the download page",
+  "text2_2": " ",
+  "text3": "3. Double click to open the DMG file, drag the application to the Applications folder to complete the installation",
+  "text4": "4. If you cannot install and are prompted with \"Your security preferences only allow apps from APP STORE and approved developers to be installed\", please click Still open to continue installation in System Preferences-&gt; Security and Privacy",
+  "text5": "5. If you want to stop this pop-up in the future, you can set Trust Any Source in System Preferences -> Security & Privacy",
+  "text6_1": "6. If there is no source option in Security and Privacy, you can refer to this document for settings",
+  "text6_2": " "
+}

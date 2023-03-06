@@ -1,0 +1,8 @@
+{
+  "title": "PHP扩展-memcached",
+  "text1": "1. memcached扩展: Memcached 是一个高性能的分布式内存对象缓存系统，用于动态Web应用以减轻数据库负载。它通过在内存中缓存数据和对象来减少读取数据库的次数，从而提高动态、数据库驱动网站的速度。Memcached基于一个存储键/值对的hashmap。其守护进程（daemon ）是用C写的，但是客户端可以用任何语言来编写，并通过memcached协议与守护进程通信。",
+  "text2": "2. memcached扩展是区分PHP版本的, php版本小于7.2, memcached使用版本是2.2.0, php版本大于等于7.2, memcached使用版本是3.2.0",
+  "text3": "3. 未安装时, 点击操作->安装, 安装memcached扩展",
+  "text4": "4. 安装后, 可点击操作->复制链接, 复制扩展链接代码, 粘贴到PHP配置文件中, 以使用memcached扩展",
+  "text5": "5. PHP配置文件更改后, 记得在服务那里, 点击重启或重载配置, 以使配置生效"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "使用phpMyAdmin管理Mysql",
+  "text1": "1. mysql安装完后，初始用户是root，没有初始密码，这里就介绍如何使用phpMyAdmin重设密码",
+  "text2_1": "2. 从phpMyAdmin官网",
+  "text2_2": "下载phpMyAdmin源码",
+  "text3_1": "3. 参照文档",
+  "text3_2": "创建站点",
+  "text3_3": "里的步骤，创建站点，并复制phpMyAdmin源码到站点根目录",
+  "text4": "4. 开启Nginx/Apache, PHP, Mysql的服务",
+  "text5": "5. 使用域名/IP+端口号访问站点，使用root + 空密码登录",
+  "text6": "6. 如果提示禁止空密码登录，修改libraries/config.default.php里的 $cfg['Servers'][$i]['AllowNoPassword'] = false 为 $cfg['Servers'][$i]['AllowNoPassword'] = true,复制 config.sample.inc.php 到 config.inc.php， 修改里面的$cfg['Servers'][$i]['AllowNoPassword'] = false 为 $cfg['Servers'][$i]['AllowNoPassword'] = true",
+  "text7": "7. 重新使用root + 空密码登录",
+  "text8": "8. 登录进去后，点击首页的修改密码，设置root密码",
+  "text9": "9. 修改完成后，后续就可以使用账号密码登录了"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "PHP 확장-pdo_sqlsrv",
+  "text1": "1. pdo_sqlsrv 확장: php pdo_sqlsrv 확장으로 php 프로그램이 Microsoft SQL Server 데이터베이스에 연결하여 데이터를 읽고 쓸 수 있습니다.",
+  "text2": "2. pdo_sqlsrv 확장은 PHP 버전에 따라 다르며, php 버전이 7.0 미만인 경우 pdo_sqlsrv 확장은 버전 3.0.1을 사용하고, php7.0-php7.2인 경우 pdo_sqlsrv 확장은 버전 4.3.0을 사용하며, php 버전이 7.2 이상인 경우에는 pdo_sqlsrv 확장자는 버전 5.10.1을 사용합니다.",
+  "text3": "3. 설치되어 있지 않은 경우 작업->설치를 클릭하여 pdo_sqlsrv 확장을 설치합니다.",
+  "text4": "4. 설치 후 작업->링크 복사를 클릭하여 확장 링크 코드를 복사하고 PHP 구성 파일에 붙여넣어 pdo_sqlsrv 확장자를 사용할 수 있습니다.",
+  "text5": "5. PHP 구성 파일을 변경한 후에는 서비스 섹션에서 다시 시작 또는 구성 다시 로드를 클릭하여 구성을 적용해야 한다는 점을 잊지 마세요."
+}

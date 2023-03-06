@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-ionCube",
+  "text1": "1. ionCube Erweiterung: zum Entschlüsseln von ionCube Encoder Verschlüsselungsskripten! Offizielle Website: https://www.ioncube.com/",
+  "text2": "2. Die ionCube-Erweiterung ist PHP-versionsspezifisch, jede PHP-Version muss separat installiert werden, Sie können im Status der Erweiterung überprüfen, ob sie installiert ist.",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die ionCube-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die ionCube-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

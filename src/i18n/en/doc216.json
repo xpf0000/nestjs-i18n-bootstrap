@@ -1,0 +1,8 @@
+{
+  "title": "PHP Extensions-mongodb",
+  "text1": "1. mongodb extension: php mongodb extension, allows php programs to connect to MongoDB databases, read and write data",
+  "text2": "2. mongodb extensions are PHP version specific, for php versions less than 7.0, mongodb extensions use version 1.7.5, for php versions greater than 7.0, mongodb extensions use version 1.14.1",
+  "text3": "3. If not installed, click Operation->Install to install the mongodb extension",
+  "text4": "4. After installation, you can click Operation->Copy Link, copy the extension link code and paste it into the PHP configuration file to use the mongodb extension",
+  "text5": "5. After changing the PHP configuration file, remember to click Restart or Reload Configuration in the Services section to make the configuration take effect"
+}

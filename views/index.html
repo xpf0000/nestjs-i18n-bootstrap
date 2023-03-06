@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+  {{> head}}
+  <body>
+  {{> header}}
+  <main class="page-wrapper">
+      <section class="dark-mode bg-dark bg-size-cover bg-repeat-0 bg-position-center position-relative overflow-hidden py-5 mb-4 main-hero">
+          <div class="container position-relative zindex-2 pt-5 pb-md-2 pb-lg-4 pb-xl-5">
+              <div class="row pt-3 pb-2 py-md-4">
+
+                  <!-- Text -->
+                  <div class="col-xl-5 col-md-6 pt-lg-5 text-center text-md-start mb-4 mb-md-0">
+                      <h1 class="display-3 pb-2 pb-sm-3">{{ t "index.Swiper1Content" }}</h1>
+                      <p class="fs-lg d-md-none d-xl-block pb-2 pb-md-0 mb-4 mb-md-5">{{ t "index.Swiper2Content1" }}</p>
+                      <div class="d-flex justify-content-center justify-content-md-start pb-2 pt-lg-2 pt-xl-0">
+                          <a href="download.html" class="btn btn-lg btn-primary shadow-primary me-3 me-sm-4">{{ t "index.downLoadNow" }}</a>
+                          <a href="help-0-1.html" class="btn btn-lg btn-outline-secondary">{{ t "index.viewDoc" }}</a>
+                      </div>
+                      <div class="d-flex align-items-center justify-content-center justify-content-md-start text-start pt-4 pt-lg-5 mt-xxl-5">
+                      </div>
+                  </div>
+
+                  <!-- Parallax gfx -->
+                  <div class="col-xl-7 col-md-6 d-md-flex justify-content-end">
+                      <div class="parallax mx-auto ms-md-0 me-md-n5" style="max-width: 675px; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: none;">
+                          <div class="parallax-layer zindex-2" data-depth="0.1" style="transform: translate3d(-6.7px, 1.4px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: relative; display: block; left: 0px; top: 0px;">
+                              <img src="/image/layer01.png" alt="Card">
+                          </div>
+                          <div class="parallax-layer zindex-3" data-depth="0.25" style="transform: translate3d(-16.8px, 3.5px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: absolute; display: block; left: 0px; top: 0px;">
+                              <img src="/image/layer02.png" alt="Bubble">
+                          </div>
+                          <div class="parallax-layer" data-depth="-0.15" style="transform: translate3d(10.1px, -2.1px, 0px); transform-style: preserve-3d; backface-visibility: hidden; position: absolute; display: block; left: 0px; top: 0px;">
+                              <img src="/image/layer03.png" alt="Bubble">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </section>
+      <section class="container py-5 my-md-2 my-lg-4 my-xl-5">
+          <h2 class="h1 text-center mx-auto mt-n2 mt-sm-0 pt-md-2" style="max-width: 530px;">
+              {{ t "index.txt1" }}
+          </h2>
+          <ul class="list-unstyled d-flex flex-wrap justify-content-center mb-5">
+              <li class="d-flex fs-xl mx-3 mt-2 mt-sm-3">
+                  <i class="bx bx-check lead text-primary mt-1 me-2"></i>
+                  <span>{{ t "index.txt2" }}</span>
+              </li>
+              <li class="d-flex fs-xl mx-3 mt-2 mt-sm-3">
+                  <i class="bx bx-check lead text-primary mt-1 me-2"></i>
+                  <span>{{ t "index.txt3" }} <strong class="text-primary ms-1">PHP5.x - PHP8.x</strong></span>
+              </li>
+              <li class="d-flex fs-xl mx-3 mt-2 mt-sm-3">
+                  <i class="bx bx-check lead text-primary mt-1 me-2"></i>
+                  <span>{{ t "index.txt4_1" }}<strong class="text-primary ms-1">{{ t "index.txt4_2" }}</strong>{{ t "index.txt4_3" }}</span>
+              </li>
+          </ul>
+
+          <!-- Parallax gfx -->
+          <div class="position-relative px-4 px-sm-5 mb-3 mb-md-4">
+              <img src="/image/index/main.png" width="1079" class="d-block mx-auto" style="border-radius: 1.5rem; box-shadow: 0 1.875rem 7.5rem -.625rem rgba(124,125,152, .2);" alt="Dashboard">
+              <div class="position-absolute w-100" style="left: 0; bottom: 13%; padding-right: 74.33%;">
+                  <img src="/image/index/popup03.png" width="450" class="rellax d-block" style="border-radius: 0.75rem; box-shadow: rgba(124, 125, 152, 0.2) 0px 0.75rem 3.75rem -0.625rem; transform: translate3d(-28px, 1px, 0px);" alt="Popup" data-rellax-percentage="0.5" data-rellax-speed="1" data-disable-parallax-down="lg">
+              </div>
+              <div class="position-absolute w-100" style="right: 0; top: 6%; padding-left: 74.16%;">
+                  <img src="/image/index/popup01.png" width="240" class="rellax d-block" style="border-radius: 0.75rem; box-shadow: rgba(126, 123, 160, 0.2) -0.46875rem 2.25rem 6.5rem 0px; transform: translate3d(100px, -20px, 0px);" alt="Popup" data-rellax-percentage="0.5" data-rellax-speed="1" data-disable-parallax-down="lg">
+              </div>
+              <div class="position-absolute w-100" style="right: 0; bottom: 9.4%; padding-left: 64.83%; padding-right: 12%;">
+                  <img src="/image/index/popup02.png" width="180" class="rellax d-block ms-auto" style="border-radius: 0.75rem; box-shadow: rgba(120, 118, 148, 0.14) -0.46875rem 2.25rem 6.5rem 0px;" alt="Popup" data-rellax-percentage="0.5" data-rellax-speed=".5" data-disable-parallax-down="lg">
+              </div>
+          </div>
+      </section>
+      <section class="container py-5 my-md-2 my-lg-4 my-xl-5">
+          <div class="row justify-content-center pt-1 pb-1 mb-2 mb-md-3 mb-lg-4">
+              <div class="col-lg-8 col-md-9 text-center">
+                  <h2 class="h1 mb-4">{{ t "index.txt5" }}</h2>
+                  <p class="fs-lg text-muted mb-0">
+                      {{ t "index.txt6" }}
+                  </p>
+              </div>
+          </div>
+          <div class="swiper swiper-nav-onhover mx-n2 swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" data-swiper-id="swiper-apps">
+              <div class="swiper-wrapper" id="swiper-wrapper-1329e6fdb0dd95e2" aria-live="polite" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3 swiper-slide-active" role="group" aria-label="1 / 8" style="width: 138.625px; margin-right: 8px;">
+                      <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img src="/image/index/php.png" class="d-block mx-auto" alt="php">
+                          </div>
+                      </a>
+                  </div>
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3 swiper-slide-next" role="group" aria-label="2 / 8" style="width: 138.625px; margin-right: 8px;">
+                     <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img src="/image/index/mysql.png" class="d-block mx-auto" alt="mysql">
+                          </div>
+                      </a>
+                  </div>
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3" role="group" aria-label="3 / 8" style="width: 138.625px; margin-right: 8px;">
+                     <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img src="/image/index/nginx.png" class="d-block mx-auto" alt="nginx">
+                          </div>
+                      </a>
+                  </div>
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3" role="group" aria-label="4 / 8" style="width: 138.625px; margin-right: 8px;">
+                     <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img src="/image/index/apache.png" class="d-block mx-auto" alt="apache">
+                          </div>
+                      </a>
+                  </div>
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3" role="group" aria-label="5 / 8" style="width: 138.625px; margin-right: 8px;">
+                     <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img style="padding: 12px" src="/image/index/memcached.png" class="d-block mx-auto" alt="memcached">
+                          </div>
+                      </a>
+                  </div>
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3" role="group" aria-label="6 / 8" style="width: 138.625px; margin-right: 8px;">
+                     <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img style="padding: 9px" src="/image/index/redis.png" class="d-block mx-auto" alt="redis">
+                          </div>
+                      </a>
+                  </div>
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3" role="group" aria-label="7 / 8" style="width: 138.625px; margin-right: 8px;">
+                     <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img style="padding: 9px" src="/image/index/nodejs.png" class="d-block mx-auto" alt="nodejs">
+                          </div>
+                      </a>
+                  </div>
+
+                  <!-- Item -->
+                  <div class="swiper-slide py-3" role="group" aria-label="8 / 8" style="width: 138.625px; margin-right: 8px;">
+                     <a href="#" class="card card-hover border-0 shadow-sm py-3 mx-2 app-card">
+                          <div class="card-body app-item">
+                              <img style="padding: 6px" src="/image/index/more.png" class="d-block mx-auto" alt="more">
+                          </div>
+                      </a>
+                  </div>
+              </div>
+
+              <!-- Pagination (bullets) -->
+              <div class="swiper-pagination position-relative pt-3 mt-4 swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal swiper-pagination-lock"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span></div>
+              <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+          <div class="text-center my-3 mt-xl-n2">
+          </div>
+      </section>
+      <section class="container py-5 my-md-2 my-lg-4 my-xl-5">
+          <div class="row align-items-center">
+              <div class="rellax col-md-7" data-rellax-percentage="0.5" data-rellax-speed="-0.6" data-disable-parallax-down="lg" style="transform: translate3d(8px, -1px, 0px);">
+                  <img src="/image/index/tools.png" class="d-block mx-auto" width="746" alt="Image">
+              </div>
+              <div class="rellax col-md-5 col-xl-4 offset-xl-1 d-flex d-sm-block flex-column" data-rellax-percentage="0.5" data-rellax-speed="0.8" data-disable-parallax-down="lg" style="transform: translate3d(19px, 1px, 0px);">
+                  <h2 class="pb-3 pt-2 pt-md-0">{{ t "index.text_7_title" }}</h2>
+                  <ul class="list-unstyled pb-2">
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_1" }}
+                      </li>
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_2" }}
+                      </li>
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_3" }}
+                      </li>
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_4" }}
+                      </li>
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_5" }}
+                      </li>
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_6" }}
+                      </li>
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_7" }}
+                      </li>
+                      <li class="d-flex align-items-center pb-1 mb-2">
+                          <i class="bx bx-check-circle text-primary fs-xl me-2"></i>
+                          {{ t "index.text_7_8" }}
+                      </li>
+                  </ul>
+                  <a href="help-0-1.html" class="btn btn-primary">
+                      {{ t "index.vieMore" }}
+                      <i class="bx bx-right-arrow-alt fs-xl ms-2"></i>
+                  </a>
+              </div>
+          </div>
+      </section>
+      <section class="container py-5 my-md-2 my-lg-4 my-xl-5">
+          <div class="row justify-content-center pt-1 pb-1 mb-2 mb-md-3 mb-lg-5">
+              <div class="col-lg-8 col-md-9 text-center">
+                  <h2 class="h1 mb-4">{{ t "index.text8" }}</h2>
+              </div>
+          </div>
+          <div class="gallery row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
+              <div class="col">
+                  <a href="/image/index/screen1.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen1.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen2.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen2.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen3.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen3.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen4.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen4.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen5.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen5.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen6.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen6.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen7.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen7.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen8.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen8.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+              <div class="col">
+                  <a href="/image/index/screen9.png" class="gallery-item rounded-3">
+                      <img src="/image/index/screen9.png" alt="Gallery thumbnail">
+                  </a>
+              </div>
+          </div>
+          <div class="text-center my-3 mt-xl-n2">
+          </div>
+      </section>
+      <section class="bg-secondary py-5">
+          <div class="container text-center py-1 py-md-4 py-lg-5">
+              <h2 class="h1 mb-4">{{ t "index.text9" }}</h2>
+              <p class="lead pb-3 mb-3">{{ t "index.text10" }}</p>
+              <a href="download.html" class="btn btn-primary shadow-primary btn-lg mb-1">{{ t "index.text11" }}</a>
+          </div>
+      </section>
+  </main>
+  {{> footer}}
+  </body>
+</html>

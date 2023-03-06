@@ -1,0 +1,7 @@
+{
+  "title": "Résoudre le problème de la lenteur de l'installation et de la mise à jour de Brew",
+  "text1": "1. Pour les utilisateurs chinois, l'installation et la mise à jour de brew peuvent être lentes ou échouer, vous pouvez essayer de changer la source de brew pour la source chinoise afin de résoudre le problème.",
+  "text2": "2. Le programme a ajouté la fonction de commutation de la source de brassage en un clic, cliquez sur le menu de configuration dans le coin inférieur gauche de l'interface principale, et entrez dans la page de configuration.",
+  "text3": "3. Sélectionnez la source de brassage, cliquez sur \"switch\", et vous pouvez passer à la source de brassage correspondante.",
+  "text4": "4. supportent actuellement : Tsinghua University, Beijing Foreign Studies University, Tencent, University of Science and Technology of China sources de téléchargement. Vous pouvez changer pour choisir la source la plus rapide"
+}

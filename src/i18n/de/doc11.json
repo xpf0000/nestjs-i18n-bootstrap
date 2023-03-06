@@ -1,0 +1,11 @@
+{
+  "title": "Installation von PhpWebStudy",
+  "text1": "1. Verwenden Sie brew zur Installation, die App ist bereits auf brew cask, Sie können sie direkt mit brew installieren, brew install phpwebstudy",
+  "text2_1": "2. Auch auf der Download-Seite verfügbar",
+  "text2_2": "Laden Sie die neueste Version von PhpWebStudy herunter",
+  "text3": "3. Doppelklicken Sie auf die DMG-Datei, um sie zu öffnen, und ziehen Sie die Anwendung in den Ordner \"Programme\", um die Installation abzuschließen.",
+  "text4": "4. Wenn die Installation fehlschlägt und die Meldung \"Ihre Sicherheitseinstellungen erlauben nur die Installation von Apps aus dem APP STORE und von zugelassenen Entwicklern\" erscheint, klicken Sie bitte in den Systemeinstellungen -&gt; Sicherheit & Datenschutz auf noch offen, um die Installation fortzusetzen",
+  "text5": "5. Wenn Sie dieses Popup-Fenster unterbinden möchten, können Sie unter Systemeinstellungen->Sicherheit & Datenschutz die Option Jeder Quelle vertrauen einstellen.",
+  "text6_1": "6. Wenn es unter Sicherheit & Datenschutz keine Quellenoption gibt, können Sie sich auf dieses Dokument beziehen",
+  "text6_2": "Nehmen Sie die Einstellungen vor"
+}

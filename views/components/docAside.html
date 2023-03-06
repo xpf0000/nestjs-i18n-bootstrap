@@ -1,0 +1,98 @@
+<aside class="dark-mode navbar navbar-dark">
+    <div id="componentsNav" class="offcanvas-lg offcanvas-start d-flex flex-column position-fixed top-0 start-0 vh-100 bg-dark border-end-lg" style="width: 21rem; z-index: 1045;">
+        <div class="offcanvas-header d-none d-lg-flex justify-content-start">
+            <a href="typography.html" class="navbar-brand text-dark d-none d-lg-flex py-0">
+                <img src="/image/logo.png" width="47" alt="PhpWebStudy">
+                PhpWebStudy
+            </a>
+        </div>
+        <div class="offcanvas-header d-block d-lg-none border-bottom">
+            <div class="d-flex align-items-center justify-content-between mb-3">
+                <h5 class="d-lg-none mb-0">PhpWebStudy</h5>
+                <button type="button" class="btn-close d-lg-none" data-bs-dismiss="offcanvas" data-bs-target="#componentsNav"></button>
+            </div>
+            <div class="list-group list-group-flush mx-n4">
+                <a href="index.html" class="list-group-item list-group-item-action d-flex align-items-center border-0 py-2 px-4 {{active.help_3_1}}">
+                    {{ t 'header.Home' }}
+                </a>
+                <a href="download.html" class="list-group-item list-group-item-action d-flex align-items-center border-0 py-2 px-4 {{active.help_3_1}}">
+                    {{ t 'header.Download' }}
+                </a>
+                <a href="help-0-1.html" class="list-group-item list-group-item-action d-flex align-items-center border-0 py-2 px-4 {{active.help_3_1}}">
+                    {{ t 'header.Documentation' }}
+                </a>
+                <a href="about.html" class="list-group-item list-group-item-action d-flex align-items-center border-0 py-2 px-4 {{active.help_3_1}}">
+                    {{ t 'header.About' }}
+                </a>
+            </div>
+            <ul class="navbar-nav me-auto d-inline-flex">
+                <li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{ t 'header.Language' }}</a>
+                    <ul class="dropdown-menu dropdown-menu-dark">
+                        <li lang="en"><a href="/en/{{path}}" class="dropdown-item" title="Show content in English">English</a></li>
+                        <li lang="zh"><a href="/zh/{{path}}" class="dropdown-item" title="显示中文版内容">中文</a></li>
+                        <li lang="ja"><a href="/ja/{{path}}" class="dropdown-item" title="コンテンツを日本語で表示">日本</a></li>
+                        <li lang="ko"><a href="/ko/{{path}}" class="dropdown-item" title="콘텐츠를 한국어로 표시">한국인</a></li>
+                        <li lang="fr"><a href="/fr/{{path}}" class="dropdown-item" title="Afficher le contenu en français">Français</a></li>
+                        <li lang="de"><a href="/de/{{path}}" class="dropdown-item" title="Inhalte auf Deutsch anzeigen">Deutsch</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="offcanvas-body scrollbar-hover w-100 p-4 overflow-auto custom-scrollbar">
+            <div aria-live="polite" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
+                <div class="h-auto" role="group" aria-label="1 / 1">
+                    <h3 class="fs-lg">{{ t 'doc.text1' }}</h3>
+                    <div class="list-group list-group-flush border-bottom pb-3 mb-4 mx-n4">
+                        <a href="help-0-1.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_0_1}}">{{ t 'doc.text1' }}</a>
+                    </div>
+                    <h3 class="fs-lg">{{ t 'doc.text2' }}</h3>
+                    <div class="list-group list-group-flush border-bottom pb-3 mb-4 mx-n4">
+                        <a href="help-1-1.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_1_1}}">{{ t 'doc.text2' }}</a>
+                        <a href="help-1-2.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_1_2}}">{{ t 'doc.text3' }}</a>
+                        <a href="help-1-3.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_1_3}}">{{ t 'doc.text4' }}</a>
+                    </div>
+                    <h3 class="fs-lg">{{ t 'doc.text5' }}</h3>
+                    <div class="list-group list-group-flush border-bottom mb-4 mx-n4 pb-2">
+                        <a href="help-2-1.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_1}}">{{ t 'doc.text6' }}</a>
+                        <a href="help-2-2.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_2}}">{{ t 'doc.text7' }}</a>
+                        <a href="help-2-3.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_3}}">{{ t 'doc.text8' }}</a>
+                        <a href="help-2-4.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_4}}">{{ t 'doc.text9' }}</a>
+                        <a href="help-2-5.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_5}}">{{ t 'doc.text10' }}</a>
+                    </div>
+                    <h3 class="fs-lg">{{ t 'doc.text35' }}</h3>
+                    <div class="list-group list-group-flush border-bottom mb-4 mx-n4 pb-2">
+                        <a href="help-3-1.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_3_1}}">{{ t 'doc.text11' }}</a>
+                        <a href="help-3-2.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_3_2}}">{{ t 'doc.text12' }}</a>
+                        <a href="help-3-3.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_3_3}}">{{ t 'doc.text13' }}</a>
+                        <a href="help-3-4.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_3_4}}">{{ t 'doc.text14' }}</a>
+                    </div>
+                    <h3 class="fs-lg">{{ t 'doc.text15' }}</h3>
+                    <div class="list-group list-group-flush border-bottom mb-4 mx-n4 pb-2">
+                        <a href="help-2-18.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_18}}">{{ t 'doc.text16' }}</a>
+                        <a href="help-2-7.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_7}}">{{ t 'doc.text17' }}</a>
+                        <a href="help-2-6.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_6}}">{{ t 'doc.text18' }}</a>
+                        <a href="help-2-8.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_8}}">{{ t 'doc.text19' }}</a>
+                        <a href="help-2-9.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_9}}">{{ t 'doc.text20' }}</a>
+                        <a href="help-2-10.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_10}}">{{ t 'doc.text21' }}</a>
+                        <a href="help-2-11.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_11}}">{{ t 'doc.text22' }}</a>
+                        <a href="help-2-12.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_12}}">{{ t 'doc.text23' }}</a>
+                        <a href="help-2-13.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_13}}">{{ t 'doc.text24' }}</a>
+                        <a href="help-2-14.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_14}}">{{ t 'doc.text25' }}</a>
+                        <a href="help-2-15.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_15}}">{{ t 'doc.text26' }}</a>
+                        <a href="help-2-16.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_16}}">{{ t 'doc.text27' }}</a>
+                        <a href="help-2-17.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_2_17}}">{{ t 'doc.text28' }}</a>
+                    </div>
+                    <h3 class="fs-lg">{{ t 'doc.text29' }}</h3>
+                    <div class="list-group list-group-flush mx-n4 pb-2">
+                        <a href="help-4-1.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_4_1}}">{{ t 'doc.text30' }}</a>
+                        <a href="help-4-2.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_4_2}}">{{ t 'doc.text31' }}</a>
+                        <a href="help-4-3.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_4_3}}">{{ t 'doc.text32' }}</a>
+                        <a href="help-4-4.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_4_4}}">{{ t 'doc.text33' }}</a>
+                        <a href="help-4-5.html" class="list-group-item list-group-item-action border-0 py-2 px-4 {{active.help_4_5}}">{{ t 'doc.text34' }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</aside>

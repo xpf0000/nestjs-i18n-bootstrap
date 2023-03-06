@@ -1,0 +1,8 @@
+{
+  "title": "PHP Extensions-memcached",
+  "text1": "1. memcached extension: Memcached is a high-performance distributed in-memory object caching system for dynamic web applications to reduce database load. Memcached is based on a hashmap that stores key/value pairs. its daemon is written in C, but clients can write it in any language and communicate with the daemon via the memcached protocol.",
+  "text2": "2. The memcached extension is PHP version specific, for php versions less than 7.2, memcached uses version 2.2.0, for php versions greater than or equal to 7.2, memcached uses version 3.2.0",
+  "text3": "3. If not installed, click Operation->Install to install memcached extension",
+  "text4": "4. After installation, you can click Operation->Copy Link, copy the extension link code and paste it into PHP configuration file to use memcached extension",
+  "text5": "5. After changing the PHP configuration file, remember to click Restart or Reload Configuration in the Services section to make the configuration take effect"
+}

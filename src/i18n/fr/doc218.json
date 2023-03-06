@@ -1,0 +1,9 @@
+{
+  "title": "Utilisation du proxy Web",
+  "text1": "1. Lors de l'installation de brew ou d'un logiciel via brew, il se peut qu'il ne soit pas installé ou qu'il soit lent en raison de problèmes de réseau, vous pouvez donc utiliser un proxy Web.",
+  "text2": "2. Cependant, les paramètres du proxy de chaque personne peuvent différer, et il est possible que le proxy web du système ne fonctionne pas avec le logiciel phpwebstudy.",
+  "text3": "3. À ce stade, vous pouvez définir le proxy web à utiliser dans phpwebstudy, afin que les logiciels installés par le biais de phpwebstudy puissent utiliser le proxy web.",
+  "text4": "4. Cliquez sur Setup->Setting->Proxy Setting, définissez le proxy, vous pouvez dans les paramètres du proxy, cliquez sur Quick Settings, entrez le lien, pour les paramètres rapides",
+  "text5": "5. Vous pouvez également modifier le proxy actuel, pour personnaliser les paramètres",
+  "text6": "6. Une fois les paramètres terminés, sélectionnez Activer, et vous pourrez alors utiliser le proxy Web."
+}

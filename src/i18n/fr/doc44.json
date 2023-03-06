@@ -1,0 +1,9 @@
+{
+  "title": "Mac résout le problème de l'accaparement des ports",
+  "text1": "1. nginx apache redis et d'autres logiciels de démarrage, rencontrer occasionnellement l'occupation du port, résultant dans le logiciel ne peut pas démarrer, alors vous devez trouver quel processus occupe le port correspondant, et de terminer le processus",
+  "text2": "2. Utilisez la commande de ligne de commande 'sudo lsof -nP -i:port' pour obtenir tous les processus qui utilisent actuellement ce port.",
+  "text3": "3. Pour obtenir le pid du processus, utilisez la commande en ligne 'sudo kill -9 pid1 pid2...'. Terminez le processus",
+  "text4": "4. PhpWebStudy a intégré l'outil d'un clic pour nettoyer l'occupation du port, cliquez sur Outils à gauche pour entrer dans la page des outils de raccourci",
+  "text5": "5. Cliquez sur Port Kill, entrez l'outil de nettoyage de port",
+  "text6": "6. Entrez le numéro du port à rechercher, cliquez sur Rechercher, tous les processus impliqués dans ce port seront affichés, vous pouvez choisir de terminer certains ou tous les processus"
+}

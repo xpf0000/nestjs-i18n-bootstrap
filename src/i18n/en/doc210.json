@@ -1,0 +1,8 @@
+{
+  "title": "PHP Extensions-redis",
+  "text1": "1. redis extensions: Redis is an open source (BSD license), in-memory storage data structure server that can be used as a database, cache and message queue proxy. It supports string, hash table, list, collection, ordered collection, bitmap, hyperlogloglogs and other data types. Built-in replication, Lua scripting, LRU retrieval, transactions, and different levels of disk persistence are provided along with high availability through Redis Sentinel and automatic partitioning through Redis Cluster.",
+  "text2": "2. The redis extension is PHP version specific, for php versions less than 7.0, redis uses version 4.3.0, for php versions greater than or equal to 7.0, redis uses version 5.3.7",
+  "text3": "3. If not installed, click Operation->Install to install the redis extension",
+  "text4": "4. After installation, you can click Operation->Copy Link, copy the extension link code and paste it into the PHP configuration file to use the redis extension",
+  "text5": "5. After changing the PHP configuration file, remember to click Restart or Reload Configuration in the Services section to make the configuration take effect"
+}

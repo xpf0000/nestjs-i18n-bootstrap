@@ -1,0 +1,15 @@
+{
+  "title": "Introduction aux fonctionnalités de PhpWebStudy",
+  "text1": "1. La première fois que vous ouvrez l'application, vous serez invité à saisir le mot de passe de votre ordinateur, car nginx, php et d'autres services ont besoin d'utiliser le mot de passe root pour démarrer et arrêter, veuillez saisir le mot de passe correct de l'ordinateur, sinon l'application ne pourra pas être utilisée correctement.",
+  "text2": "2. Après avoir entré dans l'application, l'interface principale est présentée ci-dessous",
+  "text3": "3. Hôtes, gestion des sites, ajout, suppression et liste des sites",
+  "text4": "4. Nginx, gestion des modules Nginx, changement de version, ouverture et fermeture de service, modification de la configuration, visualisation des logs",
+  "text5": "5. Apache, gestion des modules Apache, changement de version, ouverture et fermeture de services, modification de la configuration, visualisation des logs",
+  "text6": "6. Mysql, gestion des modules Mysql, changement de version, ouverture et fermeture de service, modification de la configuration, visualisation des logs",
+  "text7": "7. PHP, gestion des modules PHP, changement de version, ouverture et fermeture de services, modification de la configuration, consultation des journaux, gestion des extensions",
+  "text8": "8. Memcached, gestion du module Memcached, changement de version, activation/désactivation du service, affichage du journal.",
+  "text9": "9. Redis, gestion des modules Redis, changement de version, ouverture et fermeture de services, modification de la configuration, visualisation des logs",
+  "text10": "10. NodeJS, gestion des modules NodeJS, changement de version, installation de versions spécifiques",
+  "text11": "11. Outils, gestion des modules d'outils communs, génération de certificats auto-signés SSL, visualisation d'informations sur les fichiers, horodatage, encodage et décodage de texte.",
+  "text12": "12. Configuration, gestion des paramètres, affichage de la sélection du module de gauche, chemin personnalisé pour chaque logiciel"
+}

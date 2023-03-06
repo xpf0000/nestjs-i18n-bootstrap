@@ -1,0 +1,8 @@
+{
+  "title": "SSL Certificate Generation and Use",
+  "text1": "1. Click the SSL Make function in the Tools module to enter the SSL certificate generation interface",
+  "text2": "2. Enter the domain name you want to generate the certificate, you can use wildcard domain name, such as *.aaa.com, all subsequent subdomains of aaa.com, you can use this certificate",
+  "text3": "3. Select the root certificate path, the first time you use no root certificate, the root certificate will be automatically generated, and then use it again, select the generated root certificate path.",
+  "text4": "4. Select the location to save the certificate file, click the Generate button to generate the certificate",
+  "text5": "5. add or edit site information, turn on the ssl switch, select the certificate and certificate key, the certificate suffix is .crt, the certificate key suffix is .key, with RootCA certificate is the root certificate, do not select, save and restart Nginx/Apache, you can use https to access the site"
+}

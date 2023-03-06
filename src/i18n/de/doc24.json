@@ -1,0 +1,8 @@
+{
+  "title": "PhpWebStudy individuelle Software-Profileinstellungen",
+  "text1": "1. Beispiel PHP: Klicken Sie auf die Schaltfläche \"Profil\" im PHP-Modul, um die Profilseite aufzurufen.",
+  "text2": "2. Auf der Seite wird ein Textfeld mit Informationen über die aktuelle Softwarekonfigurationsdatei angezeigt, die direkt bearbeitet und geändert werden kann.",
+  "text3": "3. Wenn Sie Ihre Änderungen vorgenommen haben, klicken Sie auf die Schaltfläche Speichern, um die geänderte Konfiguration zu speichern.",
+  "text4": "4. Nach einer Konfigurationsänderung müssen Sie einen Neustart durchführen oder die Konfiguration neu laden, damit sie wirksam wird.",
+  "text5": "5. Wenn es Ihnen nicht leicht fällt, die Konfiguration im Textfeld auf der Seite zu bearbeiten, können Sie auf die Schaltfläche Öffnen klicken, wodurch der Ordner, in dem sich die Datei befindet, geöffnet und die Datei standardmäßig ausgewählt wird, oder Sie können eine andere Öffnungsmethode verwenden, um die Konfiguration zu öffnen."
+}

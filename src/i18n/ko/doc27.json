@@ -1,0 +1,15 @@
+{
+  "title": "phpMyAdmin으로 Mysql 관리하기",
+  "text1": "1. mysql 설치 후 초기 사용자는 root이고 초기 비밀번호가 없으므로 phpMyAdmin을 사용하여 비밀번호를 재설정하는 방법은 다음과 같습니다.",
+  "text2_1": "2. phpMyAdmin 웹사이트에서",
+  "text2_2": "phpMyAdmin 소스 코드 다운로드",
+  "text3_1": "3. 문서 참조",
+  "text3_2": "사이트 만들기",
+  "text3_3": "사이트를 만들고 다음 단계에 따라 사이트의 루트에 phpMyAdmin 소스 코드를 복사합니다.",
+  "text4": "4. Nginx/Apache, PHP, MySql 서비스 켜기",
+  "text5": "5. 도메인/IP + 포트 번호를 사용하여 사이트에 액세스하고 루트 + 빈 비밀번호로 로그인합니다.",
+  "text6": "6. 빈 비밀번호 로그인을 비활성화하라는 메시지가 표시되면, libraries/config.default.php에서 $cfg['Servers'][$i]['AllowNoPassword'] = false를 $cfg['Servers'][$i]['AllowNoPassword'] = true로 변경하고, $cfg['Servers'][$i]['AllowNoPassword']를 config.inc.php에 복사하고, $cfg['Servers'][$i]['AllowNoPassword']를 다음과 같이 변경합니다. true, config.sample.inc.php를 config.inc.php에 복사하고, $cfg['Servers'][$i]['AllowNoPassword'] = false를 $cfg['Servers'][$i]['AllowNoPassword '] = true",
+  "text7": "7. 루트 + 빈 비밀번호로 다시 로그인",
+  "text8": "8. 로그인한 후 홈 페이지에서 비밀번호 변경을 클릭하여 루트 비밀번호를 설정합니다.",
+  "text9": "9. 변경이 완료되면 계정 비밀번호로 로그인할 수 있습니다."
+}

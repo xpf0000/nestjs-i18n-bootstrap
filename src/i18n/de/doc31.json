@@ -1,0 +1,6 @@
+{
+  "title": "Eine Website erstellen",
+  "text1": "1. Klicken Sie auf die Schaltfläche Hinzufügen im Hosts-Modul, um den Bildschirm \"Website hinzufügen\" aufzurufen. Legen Sie den Domänennamen, den Website-Pfad und die Portnummer fest, die Sie verwenden möchten, geben Sie an, ob ssl aktiviert werden soll, wo das ssl-Zertifikat liegen soll, und klicken Sie auf die Schaltfläche Speichern, um die Website zu speichern.",
+  "text2": "2. Sobald die Website hinzugefügt wurde, starten Sie den Nginx/Apache-Dienst und greifen Sie über den Domänennamen oder die eingestellte IP+Port-Nummer darauf zu",
+  "text3": "3. Hinweis: Für Nicht-Port 80 und 443 muss die Portnummer für den Zugang hinzugefügt werden, sowohl für den Domain- als auch für den IP-Zugang, z. B.: http://www.xxxx.com:8080/ http://127.0.0.1:8080/"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "BrewのMacOSインストール",
+  "text1": "1.php、nginxなどのインストール、アンインストールはbrewに依存します。 アプリケーションの実行時にbrewがインストールされているかどうかを自動的にチェックし、インストールされていない場合は自動的にインストールしようとします。",
+  "text2": "2. 对于中国用户, 本应用安装brew使用的是中国的镜像脚本, 中间会需要各种输入信息确认, 虽然程序上已经帮忙自动输入信息, 但是还是会有可能安装失败, 此教程就教大家如何自己手动安装brew",
+  "text3": "3.Githubにアクセスできる場合は、Brewの公式インストールリンクを利用し、ターミナルを開いてコマンド「/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh )\" をターミナルにコピーしてインストールします",
+  "text4": "4.Githubを開けない場合は、Giteeにある国内のbrewインストールスクリプトを使い、ターミナルを開いてコマンド「/bin/zsh -c \"$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)\" 」をコピーしてください。 ターミナルからインストールすると、CUSTOM、清華大学、Aliなどのbrewミラーソースから選択可能です",
+  "text5": "5.インストールに失敗した場合、ページ下部のQQグループQRコードをスキャンして、相談用のグループに入ることができます",
+  "text6": "6. Brew Githubのリンク: ",
+  "text7": "7. Brew Chinaインストールスクリプトのリンク: ",
+  "text8": "8.公式ドキュメントを作成する: "
+}

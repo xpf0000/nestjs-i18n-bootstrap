@@ -1,0 +1,8 @@
+{
+  "title": "Ajouter le certificat racine au trousseau de clés",
+  "text1": "Après avoir généré le certificat racine et le certificat de site, vous devez encore ajouter le certificat racine au trousseau de clés et définir la confiance totale, sinon vous ne pouvez toujours pas accéder au site en utilisant https.",
+  "text2": "2. Ouvrez l'application d'accès au trousseau de clés Cliquez sur Connexion -> Certificat, faites glisser le fichier xxxx.RootCA.crt créé à l'étape précédente vers cette fenêtre, après qu'il ait été ajouté avec succès, le certificat avec le nom \"Dev Root CA xxxx.RootCA\" sera affiché",
+  "text3": "3. Double-cliquez sur le certificat pour ouvrir les détails du certificat, cliquez sur \" Trust \" et développez la section \" Trust \".",
+  "text4": "4. Sélectionnez Toujours faire confiance, fermez les détails du certificat, vous serez invité à entrer le mot de passe pour enregistrer les paramètres, entrez le mot de passe de l'ordinateur pour enregistrer les paramètres.",
+  "text5": "5. À ce stade, le certificat est déjà dans un état de confiance et vous pouvez utiliser https pour accéder au site."
+}

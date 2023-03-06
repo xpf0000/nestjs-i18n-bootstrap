@@ -1,0 +1,8 @@
+{
+  "title": "Create static HTML sites quickly",
+  "text1": "1. daily work, often encounter the need for a simple html site, such as a set of static html template, want to quickly preview the page, but also need a normal site environment, then you can use the software to provide a fast html site tools",
+  "text2": "2. Click the left menu Http Serve, enter the quick create html site tool",
+  "text3": "3. Click to select the folder, or drag the folder into the software, will automatically create a static html site, click the link to open the site",
+  "text4": "4. You can click the Pause/Start button to pause/start the site, or click the Delete button to delete the site",
+  "text5": "5. Note that this tool is only suitable for static html sites, and will not parse php files, php sites please use the normal site management tools"
+}

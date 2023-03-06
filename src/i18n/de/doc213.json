@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-ssh2",
+  "text1": "1. ssh2-Erweiterungen: php ssh2-Erweiterungen, die es php-Anwendungen ermöglichen, Funktionen des ssh2-Protokolls zu nutzen, um Benutzern zu helfen, sicherere Anwendungen zu erstellen",
+  "text2": "2. Die ssh2-Erweiterung ist PHP-versionsspezifisch. Für PHP-Versionen kleiner als 7.0 verwendet die ssh2-Erweiterung Version 1.1.2, für PHP-Versionen größer oder gleich 7.0 verwendet die ssh2-Erweiterung Version 1.3.1",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die ssh2-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die ssh2-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

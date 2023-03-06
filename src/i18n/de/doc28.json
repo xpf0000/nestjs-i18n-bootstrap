@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-memcache",
+  "text1": "1. memcache-Erweiterung: memcache ist ein hochleistungsfähiges, verteiltes In-Memory-Objekt-Caching-System für dynamische Webanwendungen, das die Belastung der Datenbanken verringert. Durch das Zwischenspeichern von Daten und Objekten im Speicher wird die Anzahl der Datenbanklesungen reduziert. Dies erhöht die Geschwindigkeit von dynamischen, datenbankgestützten Websites. Indem eine einheitlich große Hash-Tabelle im Speicher gehalten wird, können Daten in einer Vielzahl von Formaten gespeichert werden, darunter Bilder, Videos, Dateien und die Ergebnisse von Datenbanksuchen. memcache wird in erster Linie verwendet, um die Last auf die Datenbank zu verteilen, memcache ruft Daten in den Speicher und liest sie dann aus dem Speicher, wodurch die Lesegeschwindigkeit stark erhöht wird.",
+  "text2": "2. Die memcache-Erweiterung ist PHP-versionsspezifisch, für PHP-Versionen kleiner als 7.0 verwendet memcache die Version 3.0.8, für PHP-Versionen größer oder gleich 8.0 verwendet memcache die Version 8.0, php7.0 - php7.4 verwendet memcache die Version 4.0.5.2",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die memcache-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die memcache-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

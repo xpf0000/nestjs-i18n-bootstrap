@@ -1,0 +1,8 @@
+{
+  "title": "PHP扩展-ionCube",
+  "text1": "1. ionCube扩展: 用于解密ionCube Encoder加密脚本! 官方网站: https://www.ioncube.com/",
+  "text2": "2. ionCube扩展是区分PHP版本的, 每个PHP版本都需要单独安装, 可以在扩展状态那里, 查看是否安装",
+  "text3": "3. 未安装时, 点击操作->安装, 安装ionCube扩展",
+  "text4": "4. 安装后, 可点击操作->复制链接, 复制扩展链接代码, 粘贴到PHP配置文件中, 以使用ionCube扩展",
+  "text5": "5. PHP配置文件更改后, 记得在服务那里, 点击重启或重载配置, 以使配置生效"
+}

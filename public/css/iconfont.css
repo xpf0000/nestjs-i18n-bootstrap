@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "x-icon";
+  font-style: normal;
+  font-weight: normal;
+  src: url('./fonts/x-icon.eot');
+  src: url('./fonts/x-icon.eot?#iefix') format('eot'),
+    url('./fonts/x-icon.woff2') format('woff2'),
+    url('./fonts/x-icon.woff') format('woff'),
+    url('./fonts/x-icon.ttf') format('truetype');
+}
+
+.x-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.x-icon::before {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "x-icon";
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.x-icon-baidu::before { content: "\EA01" }
+.x-icon-down::before { content: "\EA02" }
+.x-icon-gitee::before { content: "\EA03" }
+.x-icon-github::before { content: "\EA04" }
+.x-icon-menu::before { content: "\EA05" }

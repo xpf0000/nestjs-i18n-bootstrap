@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-size: 14px;
+    color: #67757c;
+    background: #fff;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+svg {
+    fill: currentColor;
+}
+
+header {
+    z-index: 100;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(29, 32, 51);
+    transition: all 0.3s;
+}
+header >* {
+    width: 10%;
+    height: 100%;
+}
+header >.navigation {
+    width: 80%;
+    display: flex;
+    align-items: center;
+}
+header >.navigation >li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 1;
+    min-width: 152px;
+    height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 1);
+}
+header >.navigation >li >a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+header .logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+}
+header .logo-image {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+}
+header .logo-image >img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+header .logo-menu {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    color: #fff;
+}
+header .logo-menu >i.x-icon {
+    font-size: 36px;
+}
+header .lang {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    position: relative;
+}
+header .lang >span {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+header .lang >ul {
+    position: absolute;
+    width: 100px;
+    padding: 12px;
+    list-style: none;
+    left: calc(50% - 50px);
+    top: 80%;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(100,100,100,0.4);
+    color: #345;
+    border-radius: 5px;
+    overflow: hidden;
+    display: none;
+}
+header .lang:hover >ul {
+    display: unset;
+}
+header .lang >ul >li {
+    padding: 4px 0;
+}
+header .lang >ul >li:hover {
+    color: #3E75C3;
+}
+header .lang i {
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+i.x-icon-github {
+    border-radius: 1024px;
+}
+i.x-icon-gitee {
+    border-radius: 1024px;
+}
+i.x-icon-baidu {
+    border-radius: 1024px;
+}
+
+.header-normal .logo-dark {
+    display: none;
+}
+.dark-mode .header-normal .logo-light {
+    display: none;
+}
+.dark-mode .header-normal .logo-dark {
+    display: unset;
+}

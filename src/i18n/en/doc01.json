@@ -1,0 +1,17 @@
+{
+  "title": "Introduction",
+  "text1": "1. Before using this application, it is strongly recommended to install the brew environment first, because the application detects the available software on the system and checks the brew installation directory as a priority, and checks the available version of the software, which is also the available version of brew.",
+  "text2_1": "2. The brew installation method can be found in",
+  "text2_2": "Installing Brew for MacOS",
+  "text2_3": " ",
+  "text3": "3. for Chinese users, brew default source is a foreign source, may be slower, we recommend using the brew source switch function in the application, switch to the domestic source, the speed will be much faster",
+  "text4_1": "4. php shivammathur/php library, no domestic source, it will be slow, if you have a web proxy, you can",
+  "text4_2": "Set the web proxy",
+  "text4_3": "and install",
+  "text5": "5. Before installing the software, if you haven't updated brew for a long time or the brew version is too old, the installation may fail or you can't select the available version, it is recommended to execute brew update && brew upgrade to update the brew first.",
+  "text6": "6. When each software starts, it will output the startup command, and when it cannot start, it will output the error reason, you can copy the startup command first, execute it in the terminal, and then deal with the error reason.",
+  "text7": "7. site access problems, first determine whether the access address is wrong, non-80 and 443 ports, you need to add the port number, and then look at the site logs, site folder permissions are not a problem, the rest of the problem according to the logs to deal with",
+  "text8": "8. The logs of each software and site within the application are complete, and it is recommended to pay more attention to the log file tips",
+  "text9": "9. use problems, you can scan the QQ group QR code into the group to ask questions, group number: 540738893, you can also mention the Github Issues",
+  "text10": "10. Finally, I wish you all a happy use, and hope that this application can really help you, to bring you the convenience of development work"
+}

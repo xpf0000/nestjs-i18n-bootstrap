@@ -1,0 +1,8 @@
+{
+  "title": "PHP扩展-imagick",
+  "text1": "1. imagick扩展: Imagick 是一个原生 php 扩展，用于使用 ImageMagick API 创建和修改图像。此扩展需要 ImageMagick 版本 6.5.3-10+ 和 PHP 5.4.0+。",
+  "text2": "2. imagick扩展目前不区分php版本, 程序里的默认版本是3.7.0, 使用中, 遇见问题的, 可以提Issues, 或者群里留言",
+  "text3": "3. 未安装时, 点击操作->安装, 安装imagick扩展",
+  "text4": "4. 安装后, 可点击操作->复制链接, 复制扩展链接代码, 粘贴到PHP配置文件中, 以使用imagick扩展",
+  "text5": "5. PHP配置文件更改后, 记得在服务那里, 点击重启或重载配置, 以使配置生效"
+}

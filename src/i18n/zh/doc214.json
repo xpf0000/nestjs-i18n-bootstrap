@@ -1,0 +1,8 @@
+{
+  "title": "PHP扩展-pdo_sqlsrv",
+  "text1": "1. pdo_sqlsrv扩展: php pdo_sqlsrv扩展, 允许php程序连接微软SQL Server数据库, 读取和写入数据",
+  "text2": "2. pdo_sqlsrv扩展是区分PHP版本的, php版本小于7.0, pdo_sqlsrv扩展使用版本是3.0.1,php7.0-php7.2, pdo_sqlsrv扩展使用版本是4.3.0, php版本大于7.2, pdo_sqlsrv扩展使用版本是5.10.1",
+  "text3": "3. 未安装时, 点击操作->安装, 安装pdo_sqlsrv扩展",
+  "text4": "4. 安装后, 可点击操作->复制链接, 复制扩展链接代码, 粘贴到PHP配置文件中, 以使用pdo_sqlsrv扩展",
+  "text5": "5. PHP配置文件更改后, 记得在服务那里, 点击重启或重载配置, 以使配置生效"
+}

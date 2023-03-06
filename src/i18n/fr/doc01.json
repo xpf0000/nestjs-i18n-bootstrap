@@ -1,0 +1,17 @@
+{
+  "title": "Introduction",
+  "text1": "1. Avant d'utiliser cette application, il est fortement recommandé d'installer d'abord l'environnement brew, car l'application détecte les logiciels disponibles sur le système et vérifie en priorité le répertoire d'installation de brew, puis la version disponible du logiciel, qui est aussi la version disponible de brew.",
+  "text2_1": "2. La méthode d'installation du brassage se trouve dans",
+  "text2_2": "Installation de Brew pour MacOS",
+  "text2_3": " ",
+  "text3": "3. pour les utilisateurs chinois, la source par défaut de brew est une source étrangère, peut être plus lente, nous recommandons d'utiliser la fonction de changement de source de brew dans l'application, passer à la source nationale, la vitesse sera beaucoup plus rapide",
+  "text4_1": "4. bibliothèque php shivammathur/php, pas de source domestique, il sera lent, si vous avez un proxy web, vous pouvez",
+  "text4_2": "Configurer le proxy web",
+  "text4_3": "et installer",
+  "text5": "5. Avant d'installer le logiciel, si vous n'avez pas mis à jour brew depuis longtemps ou si la version de brew est trop ancienne, l'installation peut échouer ou vous ne pouvez pas sélectionner la version disponible, il est recommandé d'exécuter brew update && brew upgrade pour mettre à jour le brew en premier.",
+  "text6": "6. Lorsque chaque logiciel démarre, il affiche la commande de démarrage, et s'il ne peut pas démarrer, il affiche la raison de l'erreur. Vous pouvez d'abord copier la commande de démarrage, l'exécuter dans le terminal, puis traiter la raison de l'erreur.",
+  "text7": "7. problèmes d'accès au site, déterminez d'abord si l'adresse d'accès est erronée, les ports non 80 et 443, vous devez ajouter le numéro de port, puis regardez les journaux du site, les autorisations du dossier du site ne sont pas un problème, le reste du problème selon les journaux à traiter.",
+  "text8": "8. Les journaux de chaque logiciel et site de l'application sont complets, et il est recommandé d'accorder plus d'attention aux conseils du fichier journal.",
+  "text9": "9. utiliser des problèmes, vous pouvez scanner le code QQ du groupe dans le groupe pour poser des questions, numéro de groupe : 540738893, vous pouvez également mentionner les questions Github",
+  "text10": "10. Enfin, je vous souhaite à tous une bonne utilisation, et j'espère que cette application peut vraiment vous aider, pour vous apporter la commodité du travail de développement."
+}

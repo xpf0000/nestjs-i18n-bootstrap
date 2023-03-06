@@ -1,0 +1,8 @@
+{
+  "title": "PHP Extensions-memcache",
+  "text1": "1. memcache extension: memcache is a high-performance distributed in-memory object caching system for dynamic web applications to reduce the burden on the database. It reduces the number of database reads by caching data and objects in memory. This increases the speed of dynamic, database-driven websites. By maintaining a uniformly huge hash table in memory, it can be used to store data in a variety of formats, including images, videos, files, and the results of database searches. memcache is primarily used to share the pressure of the database load, memcache calls data into memory and then reads it from memory, thereby greatly increasing read speed.\n\nTranslated with www.DeepL.com/Translator (free version)",
+  "text2": "2. The memcache extension is PHP version specific, for php versions less than 7.0, memcache uses version 3.0.8, for php versions greater than or equal to 8.0, memcache uses version 8.0, php7.0 - php7.4, memcache uses version 4.0.5.2",
+  "text3": "3. If not installed, click Operation->Install to install the memcache extension",
+  "text4": "4. After installation, you can click Operation->Copy Link, copy the extension link code and paste it into the PHP configuration file to use the memcache extension",
+  "text5": "5. After changing the PHP configuration file, remember to click Restart or Reload Configuration in the Services section to make the configuration take effect"
+}

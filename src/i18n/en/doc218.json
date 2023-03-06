@@ -1,0 +1,9 @@
+{
+  "title": "Using Web Proxy",
+  "text1": "1. When installing brew or software via brew, it may not be installed or may be slow due to network problems, so you may want to use a web proxy",
+  "text2": "2. However, each person's proxy settings may differ, and it is possible that the system's web proxy may not work with the phpwebstudy software.",
+  "text3": "3. At this point, you can set the web proxy to be used in phpwebstudy, so that the software installed through phpwebstudy can use the web proxy",
+  "text4": "4. Click Setup->Setting->Proxy Setting, set the proxy, you can in the proxy settings, click Quick Settings, enter the link, for quick settings",
+  "text5": "5. You can also edit the current proxy, to customize the settings",
+  "text6": "6. Once the settings are complete, select Enable, and then you can use the web proxy"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Extensions PHP-xdebug",
+  "text1": "1. Extension xdebug : Xdebug est un débogueur de programme PHP open source (c'est-à-dire un outil de débogage) qui peut être utilisé pour suivre, déboguer et analyser l'état d'exécution des programmes PHP.",
+  "text2": "2. L'extension xdebug est spécifique à la version de PHP, pour les versions de php inférieures à 7.2, xdebug utilise la version 2.5.5, pour les versions de php supérieures ou égales à 7.2, xdebug utilise la version 3.1.5.",
+  "text3": "3. Si elle n'est pas installée, cliquez sur Actions->Installer pour installer l'extension xdebug.",
+  "text4": "4. Après l'installation, vous pouvez cliquer sur Actions->Copier le lien pour copier le code du lien de l'extension et le coller dans le fichier de configuration PHP pour utiliser l'extension xdebug.",
+  "text5": "5. Après avoir modifié le fichier de configuration PHP, n'oubliez pas de cliquer sur Redémarrer ou Recharger la configuration dans la section Services pour que la configuration prenne effet."
+}

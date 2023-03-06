@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-swoole",
+  "text1": "1. swoole-Erweiterung: Swoole ist die asynchrone, parallele, hochleistungsfähige Netzwerk-Kommunikations-Engine von PHP, geschrieben in reinem C. Sie bietet einen asynchronen Multi-Thread-Server, einen asynchronen TCP/UDP-Netzwerk-Client, asynchrones MySQL, asynchrones Redis, Datenbank-Verbindungspooling, AsyncTask, Nachrichten-Warteschlange, Millisekunden-Timer, asynchrones Lesen und Schreiben von Dateien und Asynchrone DNS-Abfragen. Swoole hat einen eingebauten Http/WebSocket Server/Client und Http2.0 Server Seite. Swoole kann in den Bereichen Internet, mobile Kommunikation, Unternehmenssoftware, Cloud Computing, Online-Spiele, Internet of Things (IOT), Internet of Vehicles, Smart Home und anderen Bereichen eingesetzt werden.",
+  "text2": "2. Die swoole-Erweiterung ist PHP-versionsspezifisch, für php-Versionen unter 5.5 verwendet swoole Version 1.10.5, php5.5 - php5.6, swoole verwendet Version 2.2.0 php7.0 - php7.1, swoole verwendet Version 4.5.11, php7.2 - php7.4, swoole verwendet Version 4.8.11, php Version > 7.4, swoole verwendet Version 5.0.0",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die swoole-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die swoole-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

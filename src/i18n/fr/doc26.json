@@ -1,0 +1,8 @@
+{
+  "title": "Extensions PHP-ionCube",
+  "text1": "1. Extension ionCube : pour décrypter les scripts de cryptage ionCube Encoder ! Site officiel : https://www.ioncube.com/",
+  "text2": "2. L'extension ionCube est différente de la version PHP, chaque version PHP doit être installée séparément, vous pouvez vérifier si elle est installée ou non dans le statut de l'extension.",
+  "text3": "3. Si elle n'est pas installée, cliquez sur Actions->Installer pour installer l'extension ionCube.",
+  "text4": "4. Après l'installation, vous pouvez cliquer sur Actions->Copier le lien pour copier le code du lien de l'extension et le coller dans le fichier de configuration PHP pour utiliser l'extension ionCube.",
+  "text5": "5. Après avoir modifié le fichier de configuration PHP, n'oubliez pas de cliquer sur Redémarrer ou Recharger la configuration dans la section Services pour que la configuration prenne effet."
+}

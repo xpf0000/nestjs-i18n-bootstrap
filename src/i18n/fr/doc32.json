@@ -1,0 +1,8 @@
+{
+  "title": "Génération et utilisation des certificats SSL",
+  "text1": "1. Cliquez sur la fonction SSL Make dans le module Tools pour entrer dans l'interface de génération de certificats SSL.",
+  "text2": "2. Entrez le nom de domaine que vous souhaitez générer le certificat, vous pouvez utiliser un nom de domaine générique, tel que *.aaa.com, tous les sous-domaines suivants de aaa.com, vous pouvez utiliser ce certificat.",
+  "text3": "3. Sélectionnez le chemin du certificat racine, la première fois que vous n'utilisez pas de certificat racine, le certificat racine sera automatiquement généré, et si vous l'utilisez à nouveau, sélectionnez le chemin du certificat racine généré.",
+  "text4": "4. Sélectionnez l'emplacement pour enregistrer le fichier du certificat, cliquez sur le bouton Générer pour générer le certificat.",
+  "text5": "5. ajouter ou modifier les informations du site, activer le commutateur ssl, sélectionner le certificat et la clé de certificat, le suffixe du certificat est .crt, le suffixe de la clé de certificat est .key, avec le certificat RootCA est le certificat racine, ne pas sélectionner, enregistrer et redémarrer Nginx/Apache, vous pouvez utiliser https pour accéder au site"
+}

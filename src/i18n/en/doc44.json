@@ -1,0 +1,9 @@
+{
+  "title": "Mac solves port hogging",
+  "text1": "1. nginx apache redis and other software startup, occasionally encounter port occupation, resulting in software can not start, then you need to find out which process occupies the corresponding port, and end the process",
+  "text2": "2. Use the command line command 'sudo lsof -nP -i:port' to get all the processes that are currently using this port",
+  "text3": "3. To get the pid of the process, use the command line command 'sudo kill -9 pid1 pid2...' End the process",
+  "text4": "4. PhpWebStudy has integrated the tool of one click to clean up the port occupation, click Tools on the left to enter the shortcut tools page",
+  "text5": "5. Click Port Kill, enter the port cleaning tool",
+  "text6": "6. Enter the port number to be searched, click Search, all the processes involved in this port will be displayed, you can choose to end some or all processes"
+}

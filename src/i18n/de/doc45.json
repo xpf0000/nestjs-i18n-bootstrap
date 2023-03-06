@@ -1,0 +1,7 @@
+{
+  "title": "Nginx 403-Fehler",
+  "text1": "1. nginx auf Mac ist anfällig für 403-Fehler aufgrund von Ordnerberechtigungen",
+  "text2": "2. Überprüfen Sie zunächst den Benutzer der nginx-Konfigurationsdatei und ändern Sie ihn in den Benutzer root owner; speichern Sie ihn, starten Sie den nginx-Dienst neu und versuchen Sie es erneut",
+  "text3": "3. Wenn es nicht funktioniert, handelt es sich in der Regel um ein Problem mit den Ordnerrechten, da das Programm beim Hinzufügen der Website automatisch der gesamten Ordnerverknüpfung die Berechtigung 755 erteilt.",
+  "text4": "4. Sie können auch den Kommandozeilen-Befehl \"sudo chmod 755 folder path\" verwenden. Der gesamte Ordner-Link muss mit \"sudo chmod -R 755 folder path\" ausgeführt werden."
+}

@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-imagick",
+  "text1": "1. imagick extension: Imagick ist eine native PHP-Erweiterung zum Erstellen und Ändern von Bildern mit Hilfe der ImageMagick API. Diese Erweiterung erfordert ImageMagick Version 6.5.3-10+ und PHP 5.4.0+.",
+  "text2": "2. Die imagick-Erweiterung unterscheidet im Moment nicht zwischen verschiedenen php-Versionen, die Standardversion im Programm ist 3.7.0, im Einsatz, wenn Sie Probleme haben, können Sie Probleme erwähnen, oder eine Nachricht in der Gruppe hinterlassen",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die imagick-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die imagick-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

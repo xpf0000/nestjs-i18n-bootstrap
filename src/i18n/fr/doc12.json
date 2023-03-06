@@ -1,0 +1,7 @@
+{
+  "title": "Mise à jour de PhpWebStudy",
+  "text1": "1. Lorsque PhpWebStudy démarre, il détecte automatiquement s'il existe une nouvelle version, et si c'est le cas, une fenêtre pop-up indique qu'une nouvelle version est disponible pour l'installation, et après que l'utilisateur ait cliqué sur le bouton de confirmation, l'application télécharge et installe automatiquement la mise à jour.",
+  "text2": "2. Après l'ouverture de l'application, vous pouvez cliquer sur le menu Détecter la mise à jour dans le coin supérieur gauche de l'écran pour vérifier s'il existe une nouvelle version, et lorsqu'il y a une nouvelle version, vous pouvez cliquer sur le bouton Confirmer pour installer la mise à jour automatiquement.",
+  "text3_1": "3. Les utilisateurs peuvent également télécharger la dernière version de phpwebstudy à partir de la page de téléchargement.",
+  "text3_2": "pour installer la mise à jour"
+}

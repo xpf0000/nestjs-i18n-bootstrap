@@ -1,0 +1,8 @@
+{
+  "title": "PHP扩展-swoole",
+  "text1": "1. swoole扩展: Swoole是PHP的异步、并行、高性能网络通信引擎，使用纯C语言编写，提供了PHP语言的异步多线程服务器，异步TCP/UDP网络客户端，异步MySQL，异步Redis，数据库连接池，AsyncTask，消息队列，毫秒定时器，异步文件读写，异步DNS查询。 Swoole内置了Http/WebSocket服务器端/客户端、Http2.0服务器端。 Swoole可以广泛应用于互联网、移动通信、企业软件、云计算、网络游戏、物联网（IOT）、车联网、智能家居等领域。",
+  "text2": "2. swoole扩展是区分PHP版本的, php版本小于5.5, swoole使用版本是1.10.5, php5.5 - php5.6, swoole使用版本是2.2.0php7.0 - php7.1, swoole使用版本是4.5.11, php7.2 - php7.4, swoole使用版本是4.8.11, php版本大于7.4, swoole使用版本是5.0.0",
+  "text3": "3. 未安装时, 点击操作->安装, 安装swoole扩展",
+  "text4": "4. 安装后, 可点击操作->复制链接, 复制扩展链接代码, 粘贴到PHP配置文件中, 以使用swoole扩展",
+  "text5": "5. PHP配置文件更改后, 记得在服务那里, 点击重启或重载配置, 以使配置生效"
+}

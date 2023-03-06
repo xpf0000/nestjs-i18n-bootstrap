@@ -1,0 +1,8 @@
+{
+  "title": "PhpWebStudy configuration file settings for each software",
+  "text1": "1. Take PHP as an example, click the profile button in the PHP module to enter the profile page",
+  "text2": "2. There will be a editor in the page to display the current software configuration file information, you can  edit to modify the configuration",
+  "text3": "3. After the modification, click the Save button to save the modified configuration",
+  "text4": "4. After the configuration change, you need to reboot or reload the configuration to take effect, please note",
+  "text5": "5. If you find it inconvenient to edit the configuration in the text box on the page, you can click the Open button, which will open the folder where the file is located and select the file by default, you can use other ways to open and edit the editing configuration"
+}

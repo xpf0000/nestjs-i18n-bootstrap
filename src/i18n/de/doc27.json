@@ -1,0 +1,15 @@
+{
+  "title": "Mysql mit phpMyAdmin verwalten",
+  "text1": "1. Nach der Installation von mysql ist der anfängliche Benutzer root und es gibt kein anfängliches Passwort. Hier ist, wie man das Passwort mit phpMyAdmin zurücksetzt",
+  "text2_1": "2. Von der phpMyAdmin-Website",
+  "text2_2": "Quellcode von phpMyAdmin herunterladen",
+  "text3_1": "3. Siehe dazu die Dokumentation",
+  "text3_2": "Eine Website erstellen",
+  "text3_3": "Erstellen Sie die Site und kopieren Sie den phpMyAdmin-Quellcode in das Stammverzeichnis der Site, indem Sie die Schritte in",
+  "text4": "4. Aktivieren Sie die Dienste Nginx/Apache, PHP, Mysql",
+  "text5": "5. Zugang zur Website über Domain/IP + Portnummer, Login mit root + leeres Passwort",
+  "text6": "6. Wenn Sie aufgefordert werden, die Anmeldung mit leerem Passwort zu deaktivieren, ändern Sie $cfg['Servers'][$i]['AllowNoPassword'] = false in libraries/config.default.php auf $cfg['Servers'][$i]['AllowNoPassword'] = true, kopieren Sie $cfg['Servers'][$i]['AllowNoPassword'] nach config.inc.php, ändern Sie $cfg['Servers'][$i]['AllowNoPassword'] auf true, kopieren Sie config.sample.inc.php nach config.inc.php, ändern Sie $cfg['Servers'][$i]['AllowNoPassword'] = false zu $cfg['Servers'][$i]['AllowNoPassword '] = true",
+  "text7": "7. Erneut mit root + leerem Passwort anmelden",
+  "text8": "8. Sobald Sie sich angemeldet haben, klicken Sie auf der Startseite auf Passwort ändern, um das Root-Passwort festzulegen",
+  "text9": "9. Sobald die Änderungen vorgenommen wurden, können Sie sich mit Ihrem Kontopasswort anmelden"
+}

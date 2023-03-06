@@ -1,0 +1,133 @@
+#container {
+    margin-top: 70px;
+    min-height: calc(100vh - 375px);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#container >h1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0;
+    font-size: 48px;
+}
+#container >.navigation {
+    list-style: none;
+    width: 300px;
+    display: flex;
+    padding: 12px;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+#container >.navigation >li {
+    height: 47px;
+    width: 100%;
+    font-size: 18px;
+}
+#container >.navigation >li >a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    color: rgba(51, 98, 179,1.00);
+    position: relative;
+}
+#container >.navigation >li >a:before {
+    border-bottom: 1px solid rgba(223, 223, 223, 1);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: '';
+    pointer-events: none;
+}
+#container >.navigation >li >a >svg {
+    width: 15px;
+    height: 15px;
+    margin-left: 5px;
+}
+#container >.navigation >li.active >a {
+    color: #ed665a;
+}
+#container >.navigation >li.active >a >svg{
+    transform: rotate(90deg);
+}
+#container >.navigation >li.sub{
+    padding-left: 12%;
+}
+
+#container >.content {
+    position: relative;
+    width: calc(70vw - 310px);
+    max-width: 800px;
+    display: flex;
+    padding: 12px 30px;
+    flex-direction: column;
+    font-size: 18px;
+    line-height: 2.0;
+    margin-bottom: 150px;
+}
+
+#container >.content >h2 {
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 32px;
+    color: rgba(103, 117, 124, 1);
+}
+#container >.content >h2:before {
+    border-bottom: 1px solid rgba(223, 223, 223, 1);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: '';
+    pointer-events: none;
+}
+#container >.content >img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    object-fit: contain;
+    box-shadow: 0 0 8px rgb(140 140 140 / 50%);
+}
+
+#container >.content a {
+    color: rgba(51, 98, 179,1.00);
+}
+
+@media only screen and (max-width: 1600px) {
+    #container >.content {
+        width: calc(70vw - 310px);
+    }
+}
+@media only screen and (max-width: 1090px) {
+    #container >.content {
+        width: calc(96vw - 310px);
+        padding-left: 10px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    #container >h1 {
+        font-size: calc(3.6vw + 20px);
+    }
+    #container >.navigation {
+        position: relative;
+        width: 100%;
+        margin-bottom: 0;
+    }
+    #container >.content {
+        width: 100%;
+        padding: 20px;
+    }
+}

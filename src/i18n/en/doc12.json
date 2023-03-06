@@ -1,0 +1,7 @@
+{
+  "title": "Update PhpWebStudy",
+  "text1": "1. When PhpWebStudy starts, it will automatically detect if there is a new version, and if there is a new version, a pop-up window will indicate that there is a new version available for installation, and after the user clicks the confirm button, the application will automatically download and install the update.",
+  "text2": "2. After the application is opened, you can click the Detect Update menu in the top left corner of the screen to check if there is a new version, and when there is a new version, you can click the Confirm button to install the update automatically.",
+  "text3_1": "3. Users can also download the latest version of phpwebstudy from the download page",
+  "text3_2": "to install the update"
+}

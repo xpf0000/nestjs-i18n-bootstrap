@@ -1,0 +1,11 @@
+{
+  "title": "Installer PhpWebStudy",
+  "text1": "1. Utilisez brew pour installer, l'application est déjà sur brew cask, vous pouvez utiliser brew pour installer directement, brew install phpwebstudy",
+  "text2_1": "2. Vous pouvez également télécharger la dernière version de PhpWebStudy à partir de la page de téléchargement.",
+  "text2_2": " ",
+  "text3": "3. Double-cliquez pour ouvrir le fichier DMG, faites glisser l'application vers le dossier Applications pour terminer l'installation.",
+  "text4": "4. Si vous ne parvenez pas à l'installer et que le message \"Vos préférences de sécurité n'autorisent l'installation que des applications de l'APP STORE et des développeurs approuvés\" s'affiche, cliquez sur Toujours ouvert pour poursuivre l'installation dans Préférences système - Sécurité et confidentialité.",
+  "text5": "5. Si vous voulez arrêter cette pop-up à l'avenir, vous pouvez définir l'option \"Trust Any Source\" dans Préférences système -> Sécurité et confidentialité.",
+  "text6_1": "6. S'il n'y a pas d'option de source dans Sécurité et confidentialité, vous pouvez vous référer à ce document pour les paramètres",
+  "text6_2": " "
+}

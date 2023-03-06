@@ -1,0 +1,46 @@
+header {
+    background: transparent;
+}
+.app-card {
+    width: 100%;
+}
+.app-item {
+    display: flex;
+    flex-direction: column;
+    padding: 1.2rem 1rem !important;
+    position: relative;
+}
+.app-item >img {
+    width: 70px;
+    height: 70px;
+}
+
+.download {
+    margin-top: 70px;
+}
+.download .col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.download .col .x-icon {
+    font-size: 60px;
+}
+
+.download i.x-icon-github.source {
+    color: #3E75C3;
+}
+.download i.x-icon-baidu.source {
+    color: #06A7FF;
+}
+.custom-scrollbar {
+    position: relative;
+}
+.scrollbar-hover::-webkit-scrollbar {
+    display: none;
+}
+
+body.about .page-wrapper {
+    margin-top: 100px;
+}

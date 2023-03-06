@@ -1,0 +1,8 @@
+{
+  "title": "PHP 拡張機能-pdo_sqlsrv",
+  "text1": "1. pdo_sqlsrv 拡張: php pdo_sqlsrv 拡張は、php プログラムが Microsoft SQL Server データベースに接続し、データの読み取りと書き込みを行うことを可能にします。",
+  "text2": "2. php のバージョンが 7.0 未満の場合は pdo_sqlsrv 拡張モジュールがバージョン 3.0.1 を使用し、 php7.0 から php7.2 までの場合は pdo_sqlsrv 拡張モジュールがバージョン 4.3.0 を、 php のバージョンが 7.2 以降の場合は pdo_sqlsrv 拡張モジュールがバージョン 5.10.1 を使用します。",
+  "text3": "3.インストールされていない場合は、Actions->Installをクリックしてpdo_sqlsrvエクステンションをインストールしてください。",
+  "text4": "4.インストール後、Actions->Copy Linkで拡張機能のリンクコードをコピーし、PHP設定ファイルに貼り付けると、pdo_sqlsrv拡張機能が利用できるようになります。",
+  "text5": "5.PHPの設定ファイルを変更したら、設定を有効にするために、サービスセクションのRestartまたはReload Configurationを忘れずにクリックしてください。"
+}

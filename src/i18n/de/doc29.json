@@ -1,0 +1,8 @@
+{
+  "title": "PHP-Erweiterungen-memcached",
+  "text1": "1. memcached-Erweiterung: Memcached ist ein hochleistungsfähiges, verteiltes In-Memory-Objekt-Caching-System für dynamische Webanwendungen, um die Belastung von Datenbanken zu verringern. Memcached basiert auf einem Hashmap, das Schlüssel/Wert-Paare speichert. Sein Daemon ist in C geschrieben, aber Clients können ihn in jeder Sprache schreiben und mit dem Daemon über das Memcached-Protokoll kommunizieren.",
+  "text2": "2. Die memcached-Erweiterung ist PHP-versionsspezifisch. Für PHP-Versionen kleiner als 7.2 verwendet memcached Version 2.2.0, für PHP-Versionen größer oder gleich 7.2 verwendet memcached Version 3.2.0",
+  "text3": "3. Falls nicht installiert, klicken Sie auf Aktionen->Installieren, um die memcached-Erweiterung zu installieren",
+  "text4": "4. Nach der Installation können Sie den Link-Code der Erweiterung kopieren, indem Sie auf Aktionen->Link kopieren klicken und ihn in die PHP-Konfigurationsdatei einfügen, um die memcached-Erweiterung zu verwenden.",
+  "text5": "5. Sobald die PHP-Konfigurationsdatei geändert wurde, müssen Sie im Bereich Dienste auf Neustart oder Konfiguration neu laden klicken, damit die Konfiguration wirksam wird."
+}

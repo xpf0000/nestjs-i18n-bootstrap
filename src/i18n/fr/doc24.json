@@ -1,0 +1,8 @@
+{
+  "title": "Paramètres du fichier de configuration de PhpWebStudy pour chaque logiciel",
+  "text1": "1. Prenons l'exemple de PHP, cliquez sur le bouton \"Profil\" dans le module PHP pour accéder à la page de profil.",
+  "text2": "2. Il y aura un éditeur dans la page pour afficher les informations du fichier de configuration du logiciel actuel, vous pouvez éditer pour modifier la configuration.",
+  "text3": "3. Après la modification, cliquez sur le bouton Enregistrer pour sauvegarder la configuration modifiée.",
+  "text4": "4. Après le changement de configuration, vous devez redémarrer ou recharger la configuration pour qu'elle prenne effet, veuillez noter que",
+  "text5": "5. Si vous trouvez qu'il n'est pas pratique de modifier la configuration dans la zone de texte de la page, vous pouvez cliquer sur le bouton Ouvrir, qui ouvrira le dossier où se trouve le fichier et sélectionnera le fichier par défaut, vous pouvez utiliser d'autres moyens pour ouvrir et modifier la configuration d'édition"
+}

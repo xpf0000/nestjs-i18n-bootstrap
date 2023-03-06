@@ -1,0 +1,8 @@
+{
+  "title": "Add root certificate to keychain",
+  "text1": "After generating the root certificate and site certificate, you still need to add the root certificate to the keychain and set full trust, otherwise you still can't access the site using https",
+  "text2": "2. Open the keychain access application Click Login -> Certificate, drag the xxxx.RootCA.crt file created in the previous step to this window, after it is successfully added, the certificate with the name \"Dev Root CA xxxx.RootCA\" will be displayed",
+  "text3": "3. Double-click the certificate to open the certificate details, click Trust and expand the Trust section",
+  "text4": "4. Select Always trust, close the certificate details, you will be prompted to enter the password to save the settings, enter the computer password to save the settings",
+  "text5": "5. At this point the certificate is already in a trusted state and you can use https to access the site"
+}

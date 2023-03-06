@@ -1,0 +1,4 @@
+{
+  "title": "MacOS ermöglicht das Herunterladen von Apps aus beliebigen Quellen und das Öffnen von Anwendungen",
+  "text1": "1. Öffnen Sie ein Terminal und geben Sie sudo spctl --master-disable ein. Möglicherweise werden Sie zur Eingabe eines Kennworts aufgefordert, aber nachdem der Befehl erfolgreich ausgeführt wurde, öffnen Sie die Einstellungen, wählen Sie Sicherheit und Datenschutz, und sehen Sie nach, ob irgendwelche Quelloptionen angezeigt werden"
+}

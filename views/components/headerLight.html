@@ -1,0 +1,70 @@
+<header class="header navbar navbar-expand-lg bg-light navbar-sticky header-normal">
+    <div class="container px-3">
+        <a href="index.html" class="navbar-brand pe-3">
+            <img class="logo-dark" src="/image/logo.png" width="35" alt="PhpWebStudy">
+            <img class="logo-light" src="/image/logo-light.png" width="35" alt="PhpWebStudy">
+        </a>
+        <div id="navbarNav" class="offcanvas offcanvas-end">
+            <div class="offcanvas-header border-bottom">
+                <h5 class="offcanvas-title">PhpWebStudy</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" title="PhpWebStudy-{{ t 'header.HomePage' }}" href="index.html">PhpWebStudy</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" title="PhpWebStudy-{{ t 'header.Download' }}" href="download.html">{{ t 'header.Download' }}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" title="PhpWebStudy-{{ t 'header.Documentation' }}" href="help-0-1.html">{{ t 'header.Documentation' }}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" title="PhpWebStudy-{{ t 'header.About' }}" href="about.html">{{ t 'header.About' }}</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="offcanvas-header border-top">
+                <ul class="navbar-nav me-auto d-inline-flex">
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{ t 'header.Language' }}</a>
+                        <ul class="dropdown-menu">
+                            <li lang="en"><a href="/en/{{path}}" class="dropdown-item" title="Show content in English">English</a></li>
+                            <li lang="zh"><a href="/zh/{{path}}" class="dropdown-item" title="显示中文版内容">中文</a></li>
+                            <li lang="ja"><a href="/ja/{{path}}" class="dropdown-item" title="コンテンツを日本語で表示">日本</a></li>
+                            <li lang="ko"><a href="/ko/{{path}}" class="dropdown-item" title="콘텐츠를 한국어로 표시">한국인</a></li>
+                            <li lang="fr"><a href="/fr/{{path}}" class="dropdown-item" title="Afficher le contenu en français">Français</a></li>
+                            <li lang="de"><a href="/de/{{path}}" class="dropdown-item" title="Inhalte auf Deutsch anzeigen">Deutsch</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="pe-lg-1 ms-auto me-4">
+            <div class="form-check form-switch mode-switch" data-bs-toggle="mode">
+                <input type="checkbox" class="form-check-input" id="theme-mode">
+                <label class="form-check-label d-none d-sm-block" for="theme-mode">Light</label>
+                <label class="form-check-label d-none d-sm-block" for="theme-mode">Dark</label>
+            </div>
+        </div>
+
+        <button type="button" class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <ul class="navbar-nav me-auto d-none d-lg-inline-flex">
+            <li class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{ t 'header.Language' }}</a>
+                <ul class="dropdown-menu">
+                    <li lang="en"><a href="/en/{{path}}" class="dropdown-item" title="Show content in English">English</a></li>
+                    <li lang="zh"><a href="/zh/{{path}}" class="dropdown-item" title="显示中文版内容">中文</a></li>
+                    <li lang="ja"><a href="/ja/{{path}}" class="dropdown-item" title="コンテンツを日本語で表示">日本</a></li>
+                    <li lang="ko"><a href="/ko/{{path}}" class="dropdown-item" title="콘텐츠를 한국어로 표시">한국인</a></li>
+                    <li lang="fr"><a href="/fr/{{path}}" class="dropdown-item" title="Afficher le contenu en français">Français</a></li>
+                    <li lang="de"><a href="/de/{{path}}" class="dropdown-item" title="Inhalte auf Deutsch anzeigen">Deutsch</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</header>

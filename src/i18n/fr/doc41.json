@@ -1,0 +1,4 @@
+{
+  "title": "MacOS permet de télécharger des applications de n'importe quelle source et de les ouvrir.",
+  "text1": "1. Ouvrez un terminal et tapez 'sudo spctl --master-disable'. Il se peut que l'on vous demande un mot de passe. Une fois la commande exécutée avec succès, ouvrez les Préférences, sélectionnez Sécurité et confidentialité, et voyez si des options de source sont affichées"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Extensions PHP-pdo_sqlsrv",
+  "text1": "1. pdo_sqlsrv extension : l'extension php pdo_sqlsrv permet aux programmes php de se connecter aux bases de données Microsoft SQL Server, de lire et d'écrire des données.",
+  "text2": "2. L'extension pdo_sqlsrv est spécifique à la version de PHP. Pour les versions de php inférieures à 7.0, l'extension pdo_sqlsrv utilise la version 3.0.1, pour php7.0-php7.2, l'extension pdo_sqlsrv utilise la version 4.3.0, pour les versions de php supérieures à 7.2, l'extension pdo_sqlsrv utilise la version 5.10.1.",
+  "text3": "3. Si elle n'est pas installée, cliquez sur Actions->Installer pour installer l'extension pdo_sqlsrv.",
+  "text4": "4. Après l'installation, vous pouvez cliquer sur Actions->Copier le lien pour copier le code du lien de l'extension et le coller dans le fichier de configuration PHP pour utiliser l'extension pdo_sqlsrv.",
+  "text5": "5. Après avoir modifié le fichier de configuration PHP, n'oubliez pas de cliquer sur Redémarrer ou Recharger la configuration dans la section Services pour que la configuration prenne effet."
+}

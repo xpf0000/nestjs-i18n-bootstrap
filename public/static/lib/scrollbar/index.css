@@ -1,0 +1,83 @@
+.x-scroll-bar-x {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 10px;
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+    background: rgba(150, 150, 150, 0.2);
+    user-select: none;
+}
+.x-scroll-bar-x .bar-plant {
+    position: absolute;
+    left: 0;
+    top: 10%;
+    height: 80%;
+    width: 150px;
+    border-radius: 5px;
+    overflow: hidden;
+    background: rgba(70, 70, 70, 0.3);
+    user-select: none;
+}
+
+.x-scroll-bar-y {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    background: rgba(150, 150, 150, 0.2);
+    user-select: none;
+}
+
+.x-scroll-bar-y .bar-plant {
+    border-radius: 5px;
+    overflow: hidden;
+    position: absolute;
+    left: 10%;
+    top: 0;
+    width: 80%;
+    height: 150px;
+    color: #c0c0c0;
+    background: rgba(110, 110, 110, 0.4);
+    user-select: none;
+}
+
+.x-scroll-bar-x.light {
+    background: rgba(200, 200, 200, 0.3);
+}
+.x-scroll-bar-x.light .bar-plant{
+    background: rgba(230, 230, 230, 0.4);
+}
+
+.x-scroll-bar-y.light {
+    background: rgba(200, 200, 200, 0.3);
+}
+.x-scroll-bar-y.light .bar-plant{
+    background: rgba(230, 230, 230, 0.4);
+}
+
+.x-scroll-bar-x:hover, .x-scroll-bar-y:hover {
+    opacity: 1.0;
+}
+
+.x-scroll-bar-x.x-scroll-dragging, .x-scroll-bar-y.x-scroll-dragging {
+    opacity: 1 !important;
+}
+
+.x-scroll-bar-x.x-scroll-hide, .x-scroll-bar-y.x-scroll-hide {
+    opacity: 0;
+}
+
+.x-scroll-bar-x, .x-scroll-bar-y {
+    opacity: 1.0;
+    transition: opacity 0.5s;
+    z-index: 2000;
+}
+
+.x-scroll-bar-iframe-disable {
+    pointer-events: none !important;
+}

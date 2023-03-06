@@ -1,0 +1,11 @@
+{
+  "title": "MacOS-Installation von Brew",
+  "text1": "1. Diese Anwendung verlässt sich auf brew für die Installation und Deinstallation von php, nginx und anderer Software. Wenn die Anwendung läuft, prüft sie automatisch, ob brew installiert ist, und wenn nicht, versucht sie, es automatisch zu installieren.",
+  "text2": "2. Für chinesische Benutzer verwendet diese Anwendung ein chinesisches Spiegelskript zur Installation von brew, das verschiedene Eingabedaten erfordert. Obwohl das Programm geholfen hat, die Informationen automatisch einzugeben, kann die Installation dennoch fehlschlagen.",
+  "text3": "3. Wenn Sie Github öffnen können, empfehlen wir, den offiziellen Installationslink von Brew zu verwenden, ein Terminal zu öffnen und den Befehl \"/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\" in das Terminal zu kopieren, um zu installieren",
+  "text4": "4. Wenn Sie Github nicht öffnen können, verwenden Sie das heimische brew-Installationsskript auf Gitee, öffnen Sie ein Terminal und kopieren Sie den Befehl \"/bin/zsh -c \"$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)\"\" in das Terminal Zur Installation können Sie einen brew-Mirror von CUSTOM, der Tsinghua-Universität, Ali usw. wählen.",
+  "text5": "5. Wenn die Installation nicht erfolgreich ist, können Sie den QR-Code der QQ-Gruppe unten auf der Seite scannen, um die Gruppe zu betreten und sich beraten zu lassen",
+  "text6": "6. Brew Github-Link: ",
+  "text7": "7. Link zum Brew China-Installationsskript: ",
+  "text8": "8. Die offizielle Dokumentation von Brew: "
+}

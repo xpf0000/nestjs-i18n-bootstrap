@@ -1,0 +1,6 @@
+{
+  "title": "Create a site",
+  "text1": "1. Click the Add button in the Hosts module to bring up the Add Site interface, set the domain name, site path, port number you want to use, whether to enable ssl, ssl certificate location, UrlRewrite, click the Save button to save the site",
+  "text2": "2. After adding the site, start the Nginx/Apache service, and access it using the set domain name or ip+port number",
+  "text3": "3. Note: For non-port 80 and 443 ports, the port number must be added for access, both for domain and IP access, for example: http://www.xxxx.com:8080/ http://127.0.0.1:8080/"
+}

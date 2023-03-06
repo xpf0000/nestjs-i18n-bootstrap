@@ -1,0 +1,15 @@
+{
+  "title": "Gestion de Mysql avec phpMyAdmin",
+  "text1": "1. Après l'installation de mysql, l'utilisateur initial est root et il n'y a pas de mot de passe initial, voici comment réinitialiser le mot de passe en utilisant phpMyAdmin",
+  "text2_1": "Télécharger le code source de phpMyAdmin depuis le site officiel de phpMyAdmin",
+  "text2_2": " ",
+  "text3_1": "3. Suivez les étapes de la documentation",
+  "text3_2": "Créer un site",
+  "text3_3": "pour créer le site et copier le code source de phpMyAdmin dans le répertoire racine du site",
+  "text4": "4. Activez les services Nginx/Apache, PHP, Mysql.",
+  "text5": "5. Accédez au site en utilisant le nom de domaine/IP + numéro de port et connectez-vous avec root + mot de passe vide.",
+  "text6": "6. Si vous êtes invité à désactiver la connexion par mot de passe vide, changez $cfg['Servers'][$i]['AllowNoPassword'] = false en $cfg['Servers'][$i]['AllowNoPassword'] = true dans libraries/config. default.php, copiez config.sample.inc.php vers config.inc.php, changez $cfg['Servers'][$i]['AllowNoPassword'] = false en $cfg['Servers'][$i]['AllowNoPassword '] = true",
+  "text7": "7. Connectez-vous à nouveau avec root + mot de passe vide",
+  "text8": "8. Après s'être connecté, cliquez sur Modifier le mot de passe sur la page d'accueil pour définir le mot de passe root.",
+  "text9": "9. Une fois la modification terminée, vous pouvez utiliser le mot de passe du compte pour vous connecter."
+}

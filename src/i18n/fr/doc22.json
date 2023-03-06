@@ -1,0 +1,6 @@
+{
+  "title": "Changement de version du logiciel PhpWebStudy",
+  "text1": "1. Prenons l'exemple de PHP, cliquez sur le bouton de gestion des versions, il affichera toutes les versions disponibles, sélectionnez la version que vous souhaitez installer/désinstaller pour l'installer/désinstaller.",
+  "text2": "2. Cliquez sur le bouton de changement de version, sélectionnez la version actuelle que vous voulez utiliser pour le changement",
+  "text3": "3. Cliquez sur le bouton Service, la version actuellement sélectionnée et le chemin d'accès au fichier exécutable s'affichent, cliquez sur le bouton Démarrer/Arrêter pour démarrer/arrêter le service."
+}

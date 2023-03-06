@@ -1,0 +1,10 @@
+{
+  "title": "À propos de PhpWebStudy",
+  "text1": "PhpWebStudy est un projet personnel libre et gratuit, créé pour les ingénieurs PHP et Web utilisant des systèmes MacOS pour le développement, afin de fournir un outil plus simple et utile pour gérer l'environnement du serveur local.",
+  "text2": "En intégrant les tâches fastidieuses telles que les commandes de démarrage/redémarrage de chaque logiciel, l'affichage et la modification des fichiers de configuration et la vérification des fichiers journaux dans un seul logiciel, les développeurs peuvent se concentrer davantage sur le véritable travail de développement.",
+  "text3": "Le code source de PhpWebStudy est sur Github, si vous trouvez le projet utile, aidez à le starifier, merci !",
+  "text4": "Si vous avez des questions ou des suggestions, vous pouvez les poser à Issues, et si vous utilisez QQ, vous pouvez scanner le code pour rejoindre le groupe.",
+  "text5": "Prêt à commencer ?",
+  "text6": "Téléchargez gratuitement PhpWebStudy et rendez tout plus facile, gagnez du temps et de la vie.",
+  "text7": "Commencez"
+}

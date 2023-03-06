@@ -1,0 +1,8 @@
+{
+  "title": "Créez rapidement des sites HTML statiques",
+  "text1": "1. le travail quotidien, rencontrent souvent la nécessité d'un site html simple, comme un ensemble de modèle html statique, veulent rapidement prévisualiser la page, mais aussi besoin d'un environnement de site normal, alors vous pouvez utiliser le logiciel pour fournir un site html rapide outils",
+  "text2": "2. Cliquez sur le menu de gauche Http Serve, entrez dans l'outil de création rapide de site html.",
+  "text3": "3. Cliquez pour sélectionner le dossier, ou faites-le glisser dans le logiciel, pour créer automatiquement un site html statique, cliquez sur le lien pour ouvrir le site.",
+  "text4": "4. Vous pouvez cliquer sur le bouton Pause/Démarrage pour mettre le site en pause ou le démarrer, ou cliquer sur le bouton Supprimer pour supprimer le site.",
+  "text5": "5. Notez que cet outil ne convient qu'aux sites html statiques et n'analyse pas les fichiers php. Les sites php doivent utiliser les outils de gestion de site normaux."
+}

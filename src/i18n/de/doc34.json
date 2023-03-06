@@ -1,0 +1,8 @@
+{
+  "title": "Schnelles Erstellen von HTML-Seiten",
+  "text1": "1. In der täglichen Arbeit, stoßen wir oft die Notwendigkeit für eine einfache HTML-Site, wie eine Reihe von statischen HTML-Vorlagen, wollen schnell eine Vorschau der Seite, sondern auch eine normale Website-Umgebung benötigen, dann können Sie die Software bietet eine schnelle HTML-Site-Funktion",
+  "text2": "2. Klicken Sie im linken Menü auf \"Http Serve\", um die Funktion \"Quick HTML Site\" aufzurufen.",
+  "text3": "3. Klicken Sie auf , um einen Ordner auszuwählen, oder ziehen Sie einen Ordner in die Software, eine statische HTML-Seite wird automatisch erstellt, klicken Sie auf den Link, um die Seite zu öffnen",
+  "text4": "4. Sie können die Website anhalten/starten, indem Sie auf die Schaltfläche Pause/Start klicken, oder Sie können die Website löschen, indem Sie auf die Schaltfläche Löschen klicken.",
+  "text5": "5. Beachten Sie, dass diese Funktion nur für statische HTML-Seiten geeignet ist und keine PHP-Dateien analysiert."
+}

@@ -1,0 +1,7 @@
+{
+  "title": "卸载PhpWebStudy",
+  "text1": "1. 从应用程序中, 把PhpWebStudy拖到废纸篓即可卸载应用",
+  "text2": "2. 应用如果是使用brew安装的, 可以使用brew卸载, 卸载命令: brew uninstall phpwebstudy",
+  "text3": "3. 应用卸载后, 原来创建的站点, 数据库等数据, 不会丢失, 下次安装后, 会自动加载",
+  "text4": "4. 如果想完全删除数据, 删除 ~/Library/PhpWebStudy 文件夹即可, 注意: 删除后, 原来的host配置, 各个软件的配置都会丢失, 请谨慎操作"
+}

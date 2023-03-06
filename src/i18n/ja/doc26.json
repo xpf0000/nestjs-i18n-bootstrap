@@ -1,0 +1,8 @@
+{
+  "title": "PHP 拡張機能-ionCube",
+  "text1": "1. ionCube 拡張機能：ionCube Encoder の暗号化スクリプトを復号化するための拡張機能! 公式サイト：https://www.ioncube.com/",
+  "text2": "2.ionCubeの拡張機能はPHPのバージョンに依存するため、PHPのバージョンごとにインストールが必要です。インストールされているかどうかは、拡張機能のステータスで確認することができます。",
+  "text3": "3.インストールされていない場合は、Actions->InstallをクリックしてionCubeエクステンションをインストールしてください。",
+  "text4": "4.インストール後、Actions->Copy Linkで拡張機能のリンクコードをコピーし、PHP設定ファイルに貼り付けると、ionCube拡張機能が利用できるようになります。",
+  "text5": "5.PHPの設定ファイルを変更したら、設定を有効にするために、サービスセクションのRestartまたはReload Configurationを忘れずにクリックしてください。"
+}

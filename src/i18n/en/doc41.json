@@ -1,0 +1,4 @@
+{
+  "title": "MacOS allows to download applications from any source and open them",
+  "text1": "1. Open a terminal and type 'sudo spctl --master-disable'. You may be prompted for a password, and after the command is executed successfully, open Preferences, select Security and Privacy, and see if any source options are displayed"
+}

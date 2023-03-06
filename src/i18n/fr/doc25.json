@@ -1,0 +1,8 @@
+{
+  "title": "affichage des informations du journal du logiciel",
+  "text1": "1. Prenons l'exemple de PHP, cliquez sur le bouton \"log\" du module PHP pour accéder à la page d'affichage du journal.",
+  "text2": "2. Il y aura un éditeur sur la page pour afficher les informations du journal actuel, vous pouvez naviguer pour afficher",
+  "text3": "3. Cliquez sur le bouton Rafraîchir pour afficher les dernières informations du journal.",
+  "text4": "4. Cliquez sur le bouton Effacer pour effacer le fichier journal, qui ne peut pas être restauré après avoir été vidé.",
+  "text5": "5. Si vous trouvez qu'il n'est pas pratique de visualiser les informations du journal dans l'éditeur de la page, vous pouvez cliquer sur le bouton Ouvrir, ce qui ouvrira le dossier où se trouve le fichier et sélectionnera le fichier par défaut, vous pouvez utiliser d'autres moyens pour ouvrir et visualiser les informations du journal."
+}

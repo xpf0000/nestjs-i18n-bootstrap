@@ -1,0 +1,11 @@
+{
+  "title": "Installer Brew dans le système MacOS",
+  "text1": "1. L'installation et la désinstallation de php, nginx et des autres logiciels de cette application dépendent de brew. Lorsque l'application est en cours d'exécution, elle détecte automatiquement si brew est installé ou non, et si ce n'est pas le cas, elle tente d'installer brew automatiquement.",
+  "text2": "2. Pour les utilisateurs chinois, cette application utilise un script miroir chinois pour installer brew, qui nécessitera diverses informations d'entrée pour confirmer, bien que le programme ait aidé à entrer les informations automatiquement, mais il peut encore échouer à installer, ce tutoriel vous apprendra comment installer manuellement brew vous-même.",
+  "text3": "3. Si vous pouvez ouvrir Github, nous vous recommandons d'utiliser le lien d'installation officiel de Brew, d'ouvrir un terminal, et de copier la commande \"/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh )\" dans le terminal pour installer",
+  "text4": "4. Si vous ne pouvez pas ouvrir Github, utilisez le script d'installation domestique de brew sur Gitee, ouvrez le terminal, copiez la commande \"/bin/zsh -c \"$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)\"\" dans le terminal pour l'installation, vous pouvez choisir la source de l'image brew de CSU, Tsinghua, Tencent, etc.",
+  "text5": "5. Si l'installation ne réussit pas, vous pouvez scanner le code QR du groupe QQ au bas de la page pour entrer dans la consultation du groupe",
+  "text6": "6. Lien vers le site Github de Brew: ",
+  "text7": "7. Lien vers le script d'installation de Brew China: ",
+  "text8": "8. Brasser la documentation officielle: "
+}

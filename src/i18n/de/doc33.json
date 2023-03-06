@@ -1,0 +1,8 @@
+{
+  "title": "Hinzufügen eines Stammzertifikats zu einem Schlüsselbund",
+  "text1": "Nachdem Sie das Stammzertifikat und das Site-Zertifikat generiert haben, müssen Sie noch das Stammzertifikat zum Schlüsselbund hinzufügen und volles Vertrauen einrichten, da Sie sonst immer noch nicht über https auf die Site zugreifen können.",
+  "text2": "2. Öffnen Sie die Anwendung für den Schlüsselbundzugriff Klicken Sie auf Login -> Zertifikate, ziehen Sie die im vorherigen Schritt erstellte Datei xxxx.RootCA.crt in dieses Fenster, nach erfolgreichem Hinzufügen wird das Zertifikat mit dem Namen \"Dev Root CA xxxx.RootCA\" angezeigt",
+  "text3": "3. Doppelklicken Sie auf das Zertifikat, um die Zertifikatsdetails zu öffnen, klicken Sie auf Vertrauen und erweitern Sie den Abschnitt Vertrauen",
+  "text4": "4. Wählen Sie Immer vertrauen, schließen Sie die Zertifikatsdetails, Sie werden aufgefordert, Ihr Passwort einzugeben, um die Einstellungen zu speichern.",
+  "text5": "5. Jetzt ist das Zertifikat vertrauenswürdig und die Website kann über https aufgerufen werden."
+}

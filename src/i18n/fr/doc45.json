@@ -1,0 +1,7 @@
+{
+  "title": "Erreur 403 de Nginx",
+  "text1": "1. nginx sur mac est susceptible de signaler des erreurs 403 en raison des permissions de dossier",
+  "text2": "2. vérifiez d'abord l'utilisateur du fichier de configuration de nginx et changez-le en utilisateur root propriétaire ; sauvegardez-le, redémarrez le service nginx et essayez à nouveau",
+  "text3": "3. Si cela ne fonctionne pas, il s'agit généralement de problèmes d'autorisation de dossier, le programme donnera automatiquement à l'ensemble du lien du dossier 755 autorisations lors de l'ajout de modifier le site, vous pouvez essayer de modifier et de sauvegarder le site et essayer à nouveau.",
+  "text4": "4. vous pouvez également utiliser la commande en ligne de commande \"sudo chmod 755 folder path\" Le lien du dossier entier doit être exécuté Dossier du site utiliser \"sudo chmod -R 755 folder path\""
+}

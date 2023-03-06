@@ -1,0 +1,8 @@
+{
+  "title": "PHP Extensions-ionCube",
+  "text1": "1. ionCube extension: for decrypting ionCube Encoder encryption scripts! Official website: https://www.ioncube.com/",
+  "text2": "2. ionCube extension is different from PHP version, each PHP version needs to be installed separately, you can check whether it is installed or not in the extension status.",
+  "text3": "3. If not installed, click Actions->Install to install the ionCube extension",
+  "text4": "4. After installation, you can click Actions->Copy Link to copy the extension link code and paste it into the PHP configuration file to use the ionCube extension",
+  "text5": "5. After changing the PHP configuration file, remember to click Restart or Reload Configuration in the Services section to make the configuration take effect"
+}
