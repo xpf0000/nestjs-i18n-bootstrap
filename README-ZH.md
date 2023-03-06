@@ -81,4 +81,4 @@ $ yarn run sitemap
 
 ## 开源许可证
 
-Nest is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE).

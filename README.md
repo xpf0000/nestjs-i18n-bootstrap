@@ -81,4 +81,4 @@ $ yarn run sitemap
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE).
