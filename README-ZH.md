@@ -4,7 +4,9 @@
 
 [英文版-en](README.md) | [中文版-zh](README-ZH.md)
 
-已部署上线的多语言自适应网站https://www.macphpstudy.com的源代码，使用nestjs，nestjs-i18n，hbs，bootstrap等技术栈制作
+<p>
+已部署上线的多语言自适应网站<a href="https://www.macphpstudy.com" target="blank">https://www.macphpstudy.com</a>的源代码，使用nestjs，nestjs-i18n，hbs，bootstrap等技术栈制作
+</p>
 
 ## 安装
 

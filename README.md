@@ -4,7 +4,9 @@
 
 [英文版-en](README.md) | [中文版-zh](README-ZH.md)
 
-Source code for an online multilingual adaptive website https://www.macphpstudy.com, using nestjs, nestjs-i18n, hbs, bootstrap
+<p>
+Source code for an online multilingual adaptive website <a href="https://www.macphpstudy.com" target="blank">https://www.macphpstudy.com</a>, using nestjs, nestjs-i18n, hbs, bootstrap
+</p>
 
 ## Installation
 
