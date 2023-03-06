@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
 [英文版-en](README.md) | [中文版-zh](README-ZH.md)
 
 <p>
-Source code for an online multilingual adaptive website <a href="https://www.macphpstudy.com" target="blank">https://www.macphpstudy.com</a>, using nestjs, nestjs-i18n, hbs, bootstrap
+Source code for an online multilingual adaptive website <a href="https://www.macphpstudy.com" target="_blank">https://www.macphpstudy.com</a>, using nestjs, nestjs-i18n, hbs, bootstrap
 </p>
 
 ## Installation

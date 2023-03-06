@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
 [英文版-en](README.md) | [中文版-zh](README-ZH.md)
 
 <p>
-已部署上线的多语言自适应网站<a href="https://www.macphpstudy.com" target="blank">https://www.macphpstudy.com</a>的源代码，使用nestjs，nestjs-i18n，hbs，bootstrap等技术栈制作
+已部署上线的多语言自适应网站<a href="https://www.macphpstudy.com" target="_blank">https://www.macphpstudy.com</a>的源代码，使用nestjs，nestjs-i18n，hbs，bootstrap等技术栈制作
 </p>
 
 ## 安装
